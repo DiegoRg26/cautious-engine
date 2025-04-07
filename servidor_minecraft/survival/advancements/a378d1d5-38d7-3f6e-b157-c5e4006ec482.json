@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-04-07 03:27:43 +0000",
       "minecraft:savanna_plateau": "2025-04-07 03:21:54 +0000",
       "minecraft:forest": "2025-04-07 00:00:24 +0000",
       "minecraft:sparse_jungle": "2025-04-06 23:57:07 +0000",
@@ -14,6 +15,7 @@
       "minecraft:sunflower_plains": "2025-04-06 22:28:21 +0000",
       "minecraft:cherry_grove": "2025-04-06 23:22:00 +0000",
       "minecraft:river": "2025-04-06 23:56:57 +0000",
+      "minecraft:birch_forest": "2025-04-07 03:30:28 +0000",
       "minecraft:dripstone_caves": "2025-04-06 23:32:21 +0000",
       "minecraft:savanna": "2025-04-07 03:15:23 +0000",
       "minecraft:plains": "2025-04-06 23:17:11 +0000"
@@ -622,6 +624,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_chicken": "2025-04-07 03:23:07 +0000",
+      "rotten_flesh": "2025-04-07 03:27:19 +0000",
       "cooked_mutton": "2025-04-07 03:14:40 +0000",
       "cooked_beef": "2025-04-06 23:24:16 +0000"
     },
@@ -1323,9 +1326,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-07 03:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
     },
     "done": true
   },
@@ -1347,9 +1404,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-07 03:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
     },
     "done": true
   },
@@ -1359,15 +1440,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-04-07 03:12:03 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-07 03:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-07 03:32:35 +0000"
     },
     "done": true
   },
