@@ -1,5 +1,5 @@
-[03:10:35] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[03:10:36] [main/INFO]: Loading 12 mods:
+[00:59:47] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[00:59:47] [main/INFO]: Loading 12 mods:
 	- carpet 1.4.147+v240613
 	- clumps 18.0.0.2
 	- fabricloader 0.16.3
@@ -12,51 +12,46 @@
 	   |-- fabric-events-interaction-v0 0.7.10+e633f883d1
 	   |-- fabric-lifecycle-events-v1 2.3.11+8f3583aed1
 	   \-- fabric-networking-api-v1 4.2.0+ab7edbacd1
-[03:10:36] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/cautious-engine/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:10:36] [main/INFO]: Compatibility level set to JAVA_17
-[03:10:36] [main/INFO]: Compatibility level set to JAVA_18
-[03:10:37] [main/WARN]: [carpet] detected, disabling UPDATE mixin com.sk89q.worldedit.fabric.mixin.MixinLevelChunkSetBlockHook
-[03:10:38] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03:10:47] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5f5c4f05]
-[03:10:47] [main/INFO]: WorldEdit for Fabric (version 7.3.8+6939-7d32b45) is loaded
-[03:10:47] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:10:50] [Worker-Main-1/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[03:10:50] [main/INFO]: Loaded 1290 recipes
-[03:10:51] [main/INFO]: Loaded 1399 advancements
-[03:10:51] [Server thread/INFO]: Starting minecraft server version 1.21
-[03:10:51] [Server thread/INFO]: Loading properties
-[03:10:51] [Server thread/INFO]: Default game type: SURVIVAL
-[03:10:51] [Server thread/INFO]: Generating keypair
-[03:10:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:10:52] [Server thread/INFO]: Using epoll channel type
-[03:10:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:10:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:10:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:10:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:10:52] [Server thread/INFO]: Preparing level "survival"
-[03:10:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:10:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:10:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:10:58] [Worker-Main-3/INFO]: Preparing spawn area: 14%
-[03:10:59] [Server thread/INFO]: Time elapsed: 1423 ms
-[03:10:59] [Server thread/INFO]: Done (6.853s)! For help, type "help"
-[03:11:05] [Server thread/INFO]: El_Combu[/127.191.221.30:53817] logged in with entity id 15 at (55.69999998807907, -18.0, -268.5750702022373)
-[03:11:05] [Server thread/INFO]: El_Combu joined the game
-[03:11:12] [Server thread/INFO]: [El_Combu: Set own game mode to Survival Mode]
-[03:11:39] [Server thread/INFO]: El_Combu has made the advancement [Take Aim]
-[03:47:24] [Server thread/INFO]: [El_Combu: Set own game mode to Spectator Mode]
-[03:47:39] [Server thread/INFO]: [El_Combu: Set own game mode to Survival Mode]
-[03:47:41] [Server thread/INFO]: [El_Combu: Set own game mode to Spectator Mode]
-[03:47:46] [Server thread/INFO]: [El_Combu: Set own game mode to Survival Mode]
-[03:48:01] [Server thread/INFO]: [El_Combu: Set own game mode to Spectator Mode]
-[03:48:12] [Server thread/INFO]: [El_Combu: Set own game mode to Survival Mode]
-[03:48:14] [Server thread/INFO]: El_Combu has made the advancement [Hot Stuff]
-[03:48:15] [Server thread/INFO]: [El_Combu: Set own game mode to Spectator Mode]
-[03:48:23] [Server thread/INFO]: [El_Combu: Set own game mode to Survival Mode]
-[03:49:23] [Server thread/INFO]: [Not Secure] [Server] hika
-[03:50:08] [Server thread/INFO]: [El_Combu: Teleported 27 entities to -2.610242, 120.000000, 20.562904]
-[03:52:26] [Server thread/INFO]: El_Combu has made the advancement [Ice Bucket Challenge]
-[03:52:33] [Server thread/INFO]: [El_Combu: Set own game mode to Spectator Mode]
-[03:52:48] [Server thread/INFO]: [El_Combu: Set own game mode to Survival Mode]
-[03:52:51] [Server thread/INFO]: [El_Combu: Set own game mode to Spectator Mode]
-[03:52:56] [Server thread/INFO]: [El_Combu: Set own game mode to Survival Mode]
+[00:59:47] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/cautious-engine/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:59:47] [main/INFO]: Compatibility level set to JAVA_17
+[00:59:47] [main/INFO]: Compatibility level set to JAVA_18
+[00:59:48] [main/WARN]: [carpet] detected, disabling UPDATE mixin com.sk89q.worldedit.fabric.mixin.MixinLevelChunkSetBlockHook
+[00:59:48] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:59:55] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5b7862d]
+[00:59:55] [main/INFO]: WorldEdit for Fabric (version 7.3.8+6939-7d32b45) is loaded
+[00:59:55] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:59:56] [main/INFO]: Found new data pack file/Leash+Villager+v1.1(mc-1.21).zip, loading it automatically
+[00:59:56] [main/INFO]: Found new data pack file/pk_waystones_v.3.4.1_mc_1.21_to_1.21.1.zip, loading it automatically
+[00:59:57] [Worker-Main-1/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[00:59:57] [main/INFO]: Loaded 1298 recipes
+[00:59:58] [main/INFO]: Loaded 1414 advancements
+[00:59:58] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:59:58] [Server thread/INFO]: Loading properties
+[00:59:58] [Server thread/INFO]: Default game type: SURVIVAL
+[00:59:58] [Server thread/INFO]: Generating keypair
+[00:59:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:59:58] [Server thread/INFO]: Using epoll channel type
+[00:59:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:59:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:59:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:59:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:59:58] [Server thread/INFO]: Preparing level "survival"
+[01:00:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:00:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:00:02] [Server thread/INFO]: Time elapsed: 492 ms
+[01:00:02] [Server thread/INFO]: Done (3.925s)! For help, type "help"
+[01:00:19] [Server thread/INFO]: El_Combu[/127.191.221.30:52829] logged in with entity id 36 at (-5.233412946173991, 121.0, 11.407409912670543)
+[01:00:19] [Server thread/INFO]: El_Combu joined the game
+[01:03:03] [Server thread/INFO]: El_Combu lost connection: Disconnected
+[01:03:03] [Server thread/INFO]: El_Combu left the game
+[01:03:16] [Server thread/INFO]: El_Combu[/127.191.221.30:58631] logged in with entity id 808 at (-0.20930862339268883, 122.0, 16.256814704480778)
+[01:03:16] [Server thread/INFO]: El_Combu joined the game
+[01:03:52] [Server thread/INFO]: El_Combu lost connection: Disconnected
+[01:03:52] [Server thread/INFO]: El_Combu left the game
+[01:05:22] [Server thread/INFO]: El_Combu[/127.191.221.30:38083] logged in with entity id 1066 at (-1.2110330020914364, 122.0, 14.910202548307629)
+[01:05:22] [Server thread/INFO]: El_Combu joined the game
+[01:05:29] [Server thread/INFO]: [El_Combu: Set the time to 1000]
+[01:06:15] [Server thread/INFO]: [El_Combu: Reloading!]
+[01:06:16] [Server thread/INFO]: Loaded 1298 recipes
+[01:06:16] [Server thread/INFO]: Loaded 1414 advancements
+[01:06:32] [Server thread/INFO]: [El_Combu: Set own game mode to Creative Mode]
