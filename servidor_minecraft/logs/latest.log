@@ -75,3 +75,25 @@
 [01:47:35] [Server thread/INFO]: Loaded 1414 advancements
 [01:49:53] [Server thread/INFO]: [El_Combu: Gave 6 [Sandstone] to El_Combu]
 [01:50:04] [Server thread/INFO]: [El_Combu: Gave 2 [Lodestone] to El_Combu]
+[01:50:22] [Server thread/INFO]: [El_Combu: Set own game mode to Creative Mode]
+[01:50:41] [Server thread/INFO]: [El_Combu: Set own game mode to Survival Mode]
+[01:51:01] [Server thread/INFO]: [El_Combu: Gamerule playersSleepingPercentage is now set to: 1]
+[01:51:20] [Server thread/INFO]: [El_Combu: Set own game mode to Creative Mode]
+[01:51:27] [Server thread/INFO]: [El_Combu: Set own game mode to Survival Mode]
+[01:54:29] [Server thread/INFO]: [El_Combu: Set own game mode to Creative Mode]
+[01:54:30] [Server thread/INFO]: [El_Combu: Set own game mode to Survival Mode]
+[01:55:48] [Server thread/INFO]: [El_Combu: Set own game mode to Creative Mode]
+[01:55:50] [Server thread/INFO]: [El_Combu: Set own game mode to Survival Mode]
+[01:55:57] [Server thread/INFO]: [El_Combu: Gave 1 [Lead] to El_Combu]
+[01:56:10] [Server thread/INFO]: [El_Combu: Summoned new Villager]
+[01:57:27] [Server thread/INFO]: [Not Secure] [Server] asd
+[01:57:57] [Server thread/INFO]: Villager class_1646['Butcher'/10518, l='ServerLevel[survival]', x=-10.68, y=120.00, z=13.59] died, message: 'Butcher was killed'
+[01:57:57] [Server thread/INFO]: [El_Combu: Killed Butcher]
+[01:58:27] [Server thread/INFO]: Osvaldo[local] logged in with entity id 10818 at (-9.481041893589955, 120.0, 12.60913442549829)
+[01:58:27] [Server thread/INFO]: Osvaldo joined the game
+[01:59:19] [Server thread/INFO]: Osvaldo lost connection: Killed
+[01:59:19] [Server thread/INFO]: Osvaldo left the game
+[01:59:26] [Server thread/INFO]: Osvaldo[local] logged in with entity id 11066 at (-9.231619382763393, 120.0, 14.145808169371417)
+[01:59:26] [Server thread/INFO]: Osvaldo joined the game
+[01:59:36] [Server thread/INFO]: Osvaldo lost connection: Killed
+[01:59:36] [Server thread/INFO]: Osvaldo left the game
