@@ -626,7 +626,8 @@
       "cooked_chicken": "2025-04-07 03:23:07 +0000",
       "rotten_flesh": "2025-04-07 03:27:19 +0000",
       "cooked_mutton": "2025-04-07 03:14:40 +0000",
-      "cooked_beef": "2025-04-06 23:24:16 +0000"
+      "cooked_beef": "2025-04-06 23:24:16 +0000",
+      "golden_carrot": "2025-04-09 01:26:15 +0000"
     },
     "done": false
   },
@@ -1671,6 +1672,150 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-04-09 01:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-09 01:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-09 01:28:21 +0000"
+    },
+    "done": true
+  },
+  "pk_waystones:recipes/waystone/nether": {
+    "criteria": {
+      "has_an_ingredient": "2025-04-09 01:28:21 +0000"
+    },
+    "done": true
+  },
+  "pk_waystones:recipes/waystone/mossy": {
+    "criteria": {
+      "has_an_ingredient": "2025-04-09 01:28:21 +0000"
+    },
+    "done": true
+  },
+  "pk_waystones:recipes/waystone/andesite": {
+    "criteria": {
+      "has_an_ingredient": "2025-04-09 01:28:21 +0000"
+    },
+    "done": true
+  },
+  "pk_waystones:recipes/waystone/deepslate": {
+    "criteria": {
+      "has_an_ingredient": "2025-04-09 01:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-09 01:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-09 01:28:21 +0000"
+    },
+    "done": true
+  },
+  "pk_waystones:recipes/waystone/sand": {
+    "criteria": {
+      "has_an_ingredient": "2025-04-09 01:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 01:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 01:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-09 01:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-09 01:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-04-09 01:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-04-09 01:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-09 01:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-09 01:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-09 01:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-09 01:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-09 01:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-09 01:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-09 01:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-09 01:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-04-09 01:49:53 +0000"
     },
     "done": true
   },
