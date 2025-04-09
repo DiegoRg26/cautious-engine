@@ -97,3 +97,22 @@
 [01:59:26] [Server thread/INFO]: Osvaldo joined the game
 [01:59:36] [Server thread/INFO]: Osvaldo lost connection: Killed
 [01:59:36] [Server thread/INFO]: Osvaldo left the game
+[02:00:42] [Server thread/INFO]: hypixel[local] logged in with entity id 11297 at (0.5006606285083102, 120.0, 30.489903816999632)
+[02:00:42] [Server thread/INFO]: hypixel joined the game
+[02:00:47] [Server thread/INFO]: hypixel has made the advancement [Isn't It Iron Pick]
+[02:00:53] [Server thread/INFO]: hypixel lost connection: Killed
+[02:00:53] [Server thread/INFO]: hypixel left the game
+[02:00:59] [Server thread/INFO]: hypixel[local] logged in with entity id 11340 at (0.5955094723754939, 120.0, 30.489867318219666)
+[02:00:59] [Server thread/INFO]: hypixel joined the game
+[02:01:07] [Server thread/INFO]: hypixel has made the advancement [Stone Age]
+[02:02:53] [Server thread/INFO]: hypixel lost connection: Killed
+[02:02:53] [Server thread/INFO]: hypixel left the game
+[02:06:27] [Server thread/INFO]: [El_Combu: Reloading!]
+[02:06:28] [Server thread/INFO]: Loaded 1381 recipes
+[02:06:28] [Server thread/INFO]: Loaded 1431 advancements
+[02:06:47] [Server thread/INFO]: El_Combu has made the advancement [advancements.backpacks.adventurer]
+[02:08:50] [Server thread/INFO]: [El_Combu: Reloading!]
+[02:08:51] [Server thread/INFO]: Loaded 1381 recipes
+[02:08:51] [Server thread/INFO]: Loaded 1431 advancements
+[02:09:21] [Server thread/INFO]: [El_Combu: Changed the block at -8, 120, 11]
+[02:09:59] [Server thread/INFO]: El_Combu has made the advancement [advancements.backpacks.nes]
