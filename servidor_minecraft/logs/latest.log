@@ -136,3 +136,20 @@
 [02:10:53] [Server thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:entity_type] are present in data pack: backpacks:custom_minecarts, backpacks:minecarts, senti:container
 [02:13:44] [Server thread/INFO]: [El_Combu: Set Mojarra_Liciada's game mode to Creative Mode]
 [02:13:47] [Server thread/INFO]: [El_Combu: Set own game mode to Creative Mode]
+[02:21:28] [Server thread/INFO]: [El_Combu: Set own game mode to Survival Mode]
+[02:21:42] [Server thread/INFO]: [Not Secure] [Server] asd
+[02:29:12] [Server thread/INFO]: Mojarra_Liciada lost connection: Disconnected
+[02:29:12] [Server thread/INFO]: Mojarra_Liciada left the game
+[02:29:22] [Server thread/INFO]: El_Combu lost connection: Disconnected
+[02:29:22] [Server thread/INFO]: El_Combu left the game
+[02:29:42] [Server thread/INFO]: Stopping the server
+[02:29:42] [Server thread/INFO]: Stopping server
+[02:29:42] [Server thread/INFO]: Saving players
+[02:29:42] [Server thread/INFO]: Saving worlds
+[02:29:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[survival]'/minecraft:overworld
+[02:29:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[survival]'/minecraft:the_nether
+[02:29:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[survival]'/minecraft:the_end
+[02:29:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (survival): All chunks are saved
+[02:29:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:29:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:29:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
