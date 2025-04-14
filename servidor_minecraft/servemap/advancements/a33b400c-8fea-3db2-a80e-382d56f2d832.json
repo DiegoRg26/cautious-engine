@@ -5691,9 +5691,33 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-14 04:10:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-14 04:10:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-04-14 04:10:12 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-04-14 03:56:43 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-14 04:10:12 +0000"
     },
     "done": true
   },
