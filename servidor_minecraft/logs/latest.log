@@ -1775,3 +1775,92 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [01:10:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [01:10:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [01:10:54] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/cautious-engine/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:16:27] [Server thread/INFO]: SaitamaSena[/127.116.53.181:42755] logged in with entity id 4065 at (154.5, 73.0, 273.5)
+[01:16:27] [Server thread/INFO]: Sending server config values to client
+[01:16:27] [Server thread/INFO]: Syncing config to SaitamaSena (8b53bfe0-ddf2-3827-8126-494c4606546b)
+[01:16:27] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:16:27] [Server thread/INFO]: SaitamaSena joined the game
+[01:16:27] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[01:16:29] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:16:29] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:16:29] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:16:29] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:16:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:16:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:16:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:16:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:16:29] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player SaitamaSena. Claiming: GRAVE / Robbing: INVENTORY
+[01:16:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:16:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:16:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:16:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:16:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:16:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:16:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:16:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:16:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:16:29] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/cautious-engine/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:17:41] [Server thread/INFO]: [El_Combu: Banned DJ_MAKATUNGA: QLE MARICON]
+[01:17:41] [Server thread/INFO]: DJ_MAKATUNGA lost connection: Disconnected
+[01:17:41] [Server thread/INFO]: DJ_MAKATUNGA left the game
+[01:17:41] [Server thread/WARN]: handleDisconnection() called twice
+[01:17:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@cf1d391[id=47d1b419-a514-3148-a4dd-d86a03b0fd54,name=DJ_MAKATUNGA,properties={},legacy=false] (/127.150.99.75:59739): You are banned from this server.
+Reason: QLE MARICON
+[01:17:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@cf1d391[id=47d1b419-a514-3148-a4dd-d86a03b0fd54,name=DJ_MAKATUNGA,properties={},legacy=false] (/127.150.99.75:59739) lost connection: You are banned from this server.
+Reason: QLE MARICON
+[01:17:52] [Server thread/WARN]: handleDisconnection() called twice
+[01:18:01] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@218403f8[id=47d1b419-a514-3148-a4dd-d86a03b0fd54,name=DJ_MAKATUNGA,properties={},legacy=false] (/127.150.99.75:41505): You are banned from this server.
+Reason: QLE MARICON
+[01:18:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@218403f8[id=47d1b419-a514-3148-a4dd-d86a03b0fd54,name=DJ_MAKATUNGA,properties={},legacy=false] (/127.150.99.75:41505) lost connection: You are banned from this server.
+Reason: QLE MARICON
+[01:18:01] [Server thread/WARN]: handleDisconnection() called twice
+[01:18:11] [Server thread/INFO]: [El_Combu: Gamerule sendCommandFeedback is now set to: true]
+[01:18:14] [Server thread/INFO]: SaitamaSena has made the advancement [Take Aim]
+[01:19:36] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@384f7c14[id=47d1b419-a514-3148-a4dd-d86a03b0fd54,name=DJ_MAKATUNGA,properties={},legacy=false] (/127.150.99.75:37995): You are banned from this server.
+Reason: QLE MARICON
+[01:19:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@384f7c14[id=47d1b419-a514-3148-a4dd-d86a03b0fd54,name=DJ_MAKATUNGA,properties={},legacy=false] (/127.150.99.75:37995) lost connection: You are banned from this server.
+Reason: QLE MARICON
+[01:19:36] [Server thread/WARN]: handleDisconnection() called twice
+[01:19:40] [Server thread/INFO]: [El_Combu: Unbanned DJ_MAKATUNGA]
+[01:19:46] [Server thread/INFO]: DJ_MAKATUNGA[/127.150.99.75:58121] logged in with entity id 4813 at (79.45076663915192, 73.32921343260139, 289.41420548568647)
+[01:19:46] [Server thread/INFO]: Sending server config values to client
+[01:19:46] [Server thread/INFO]: Syncing config to DJ_MAKATUNGA (47d1b419-a514-3148-a4dd-d86a03b0fd54)
+[01:19:46] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:19:46] [Server thread/INFO]: DJ_MAKATUNGA joined the game
+[01:19:47] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[01:19:47] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player DJ_MAKATUNGA. Claiming: GRAVE / Robbing: INVENTORY
+[01:19:47] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:19:47] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:19:47] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:19:47] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:19:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:19:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:19:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:19:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:19:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:19:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:19:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:19:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:19:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:19:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:19:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:19:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:19:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:19:47] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/cautious-engine/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:20:20] [Server thread/INFO]: [El_Combu: Teleported El_Combu to DJ_MAKATUNGA]
+[01:20:58] [Server thread/INFO]: [El_Combu: Teleported El_Combu to SaitamaSena]
+[01:21:12] [Server thread/INFO]: [El_Combu: Teleported El_Combu to DJ_MAKATUNGA]
+[01:21:17] [Server thread/INFO]: DJ_MAKATUNGA was slain by El_Combu using [LA MONDA]
+[01:21:24] [Server thread/INFO]: [El_Combu: Teleported DJ_MAKATUNGA to El_Combu]
+[01:21:33] [Server thread/INFO]: DJ_MAKATUNGA claimed a grave belonging to DJ_MAKATUNGA at 168, 67, 230, minecraft:overworld
+[01:22:01] [Server thread/INFO]: DJ_MAKATUNGA has reached the goal [Choose your path]
+[01:22:35] [Server thread/INFO]: DJ_MAKATUNGA has made the advancement [Stone Age]
+[01:22:41] [Server thread/INFO]: SaitamaSena has made the advancement [Stone Age]
+[01:22:50] [Server thread/INFO]: [El_Combu: Teleported El_Combu to DJ_MAKATUNGA]
+[01:23:09] [Server thread/INFO]: SaitamaSena has reached the goal [Choose your path]
+[01:23:35] [Server thread/INFO]: DJ_MAKATUNGA has made the advancement [Getting an Upgrade]
+[01:24:03] [Server thread/INFO]: Named entity class_1604['Janith Venne the Pillager'/2801, l='ServerLevel[world]', x=185.30, y=76.00, z=293.24] died: Janith Venne the Pillager was slain by El_Combu using [LA MONDA]
+[01:24:06] [Server thread/INFO]: Named entity class_1604['Quartilla Encinias the Pillager'/2800, l='ServerLevel[world]', x=187.70, y=74.00, z=294.70] died: Quartilla Encinias the Pillager was slain by El_Combu using [LA MONDA]
+[01:24:43] [Server thread/INFO]: SaitamaSena was poked to death by a sweet berry bush
+[01:25:08] [Server thread/INFO]: SaitamaSena claimed a grave belonging to SaitamaSena at 127, 74, 292, minecraft:overworld
+[01:25:28] [Server thread/INFO]: SaitamaSena has made the advancement [Monster Hunter]
