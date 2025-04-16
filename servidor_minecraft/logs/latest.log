@@ -3460,3 +3460,435 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:38:04] [Server thread/INFO]: MrOmar08 has made the advancement [Disme A Dozen]
 [04:38:26] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
 [04:38:26] [Server thread/INFO]: Mojarra_Liciada has made the advancement [What Happens in Las Vegas...]
+[04:38:35] [Server thread/INFO]: Mojarra_Liciada has made the advancement [Barrel Booty]
+[04:38:42] [Server thread/INFO]: KhalYork27 has made the advancement [What Happens in Las Vegas...]
+[04:38:43] [Server thread/INFO]: KhalYork27 has made the advancement [Barrel Booty]
+[04:38:57] [Server thread/INFO]: KhalYork27 was slain by Skeleton
+[04:39:01] [Server thread/INFO]: Named entity class_1604['Earld Babst the Pillager'/107197, l='ServerLevel[world]', x=1948.70, y=89.37, z=75.67] died: Earld Babst the Pillager went off with a bang
+[04:39:03] [Server thread/INFO]: MrOmar08 was slain by Skeleton
+[04:39:05] [Server thread/INFO]: Anthony lost connection: Disconnected
+[04:39:05] [Server thread/INFO]: Anthony left the game
+[04:39:07] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[04:39:08] [Server thread/INFO]: Mojarra_Liciada has made the advancement ['X' Marks the Spot]
+[04:39:08] [Server thread/INFO]: MrOmar08 claimed a grave belonging to MrOmar08 at 1930, 81, 73, minecraft:overworld
+[04:39:12] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[04:39:18] [Server thread/INFO]: Named entity class_1604['Nadra Dyer the Pillager'/107717, l='ServerLevel[world]', x=1937.20, y=87.50, z=71.70] died: Nadra Dyer the Pillager was slain by El_Combu using [LA MONDA]
+[04:39:19] [Server thread/INFO]: Named entity class_1604['Hatsey Yurman the Pillager'/106818, l='ServerLevel[world]', x=1941.22, y=89.06, z=71.70] died: Hatsey Yurman the Pillager went off with a bang
+[04:39:35] [Server thread/INFO]: Named entity class_1604['Yamni Peak the Pillager'/108084, l='ServerLevel[world]', x=1926.30, y=89.00, z=78.70] died: Yamni Peak the Pillager was slain by Skeleton
+[04:39:35] [Server thread/INFO]: Named entity class_1604['Grete Hyser the Pillager'/108218, l='ServerLevel[world]', x=1948.16, y=90.00, z=70.29] died: Grete Hyser the Pillager went off with a bang
+[04:39:36] [Server thread/INFO]: Named entity class_1604['Femi Weipert the Pillager'/108454, l='ServerLevel[world]', x=1942.69, y=90.00, z=90.70] died: Femi Weipert the Pillager was slain by El_Combu using [LA MONDA]
+[04:39:39] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1940, 81, 87, minecraft:overworld
+[04:39:47] [Server thread/INFO]: MrOmar08 was slain by Skeleton
+[04:39:48] [Server thread/INFO]: Named entity class_1439['DALEK'/106585, l='ServerLevel[world]', x=1895.67, y=89.00, z=254.29] died: DALEK suffocated in a wall
+[04:39:51] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[04:39:53] [Server thread/INFO]: MrOmar08 claimed a grave belonging to MrOmar08 at 1931, 83, 70, minecraft:overworld
+[04:40:04] [Server thread/INFO]: MrOmar08 went off with a bang
+[04:40:07] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[04:40:08] [Server thread/INFO]: Named entity class_1604['Udelle Gottula the Pillager'/108577, l='ServerLevel[world]', x=1937.21, y=88.00, z=70.35] died: Udelle Gottula the Pillager was slain by KhalYork27
+[04:40:12] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/109167, l='ServerLevel[world]', x=2038.50, y=71.00, z=13.50]
+[04:40:13] [Server thread/INFO]: Mojarra_Liciada went off with a bang
+[04:40:15] [Server thread/INFO]: MrOmar08 went off with a bang
+[04:40:18] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[04:40:19] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to KhalYork27]
+[04:40:21] [Server thread/INFO]: Named entity class_1604['Gussy Scheffert the Pillager'/108826, l='ServerLevel[world]', x=1938.30, y=89.06, z=79.70] died: Gussy Scheffert the Pillager was slain by KhalYork27
+[04:40:21] [Server thread/INFO]: KhalYork27 went off with a bang
+[04:40:26] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1930, 89, 76, minecraft:overworld
+[04:40:30] [Server thread/INFO]: MrOmar08 claimed a grave belonging to MrOmar08 at 1936, 81, 70, minecraft:overworld
+[04:40:30] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[04:40:30] [Server thread/INFO]: KhalYork27 was slain by El_Combu using [LA MONDA]
+[04:40:31] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/109687, l='ServerLevel[world]', x=2014.50, y=73.00, z=75.50]
+[04:40:32] [Server thread/INFO]: Named entity class_1604['Delia Quarterman the Pillager'/108077, l='ServerLevel[world]', x=1932.63, y=89.06, z=73.30] died: Delia Quarterman the Pillager was slain by El_Combu using [LA MONDA]
+[04:40:41] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[04:40:51] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1937, 90, 77, minecraft:overworld
+[04:41:15] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/111312, l='ServerLevel[world]', x=2016.50, y=73.00, z=76.50]
+[04:41:17] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/111394, l='ServerLevel[world]', x=2016.50, y=75.00, z=127.50]
+[04:41:19] [Server thread/INFO]: El_Combu was slain by Skeleton
+[04:41:19] [Server thread/WARN]: El_Combu moved wrongly!
+[04:41:29] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 1937.500000, 94.000000, 64.500000]
+[04:41:29] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/112534, l='ServerLevel[world]', x=2002.50, y=75.00, z=56.50]
+[04:41:31] [Server thread/INFO]: El_Combu claimed a grave belonging to El_Combu at 1937, 94, 64, minecraft:overworld
+[04:41:42] [Server thread/INFO]: KhalYork27 went off with a bang
+[04:41:48] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/113156, l='ServerLevel[world]', x=1964.50, y=80.00, z=74.50]
+[04:41:50] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/113169, l='ServerLevel[world]', x=1986.50, y=75.00, z=27.50]
+[04:41:53] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to MrOmar08]
+[04:41:59] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1919, 81, 92, minecraft:overworld
+[04:42:13] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/113874, l='ServerLevel[world]', x=2016.50, y=75.00, z=125.50]
+[04:42:16] [Server thread/INFO]: Named entity class_1604['Kallenberger Carrino the Pillager'/108964, l='ServerLevel[world]', x=1918.44, y=75.00, z=94.17] died: Kallenberger Carrino the Pillager was slain by MrOmar08
+[04:42:20] [Server thread/INFO]: Named entity class_1604['Bettyne Blessman the Pillager'/108644, l='ServerLevel[world]', x=1937.70, y=81.96, z=92.30] died: Bettyne Blessman the Pillager was slain by Mojarra_Liciada
+[04:42:50] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/115317, l='ServerLevel[world]', x=1985.50, y=75.00, z=27.50]
+[04:42:51] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/115342, l='ServerLevel[world]', x=2039.50, y=70.00, z=104.50]
+[04:42:52] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/115347, l='ServerLevel[world]', x=2033.50, y=74.00, z=83.50]
+[04:43:10] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/115424, l='ServerLevel[world]', x=2015.50, y=72.00, z=20.50]
+[04:43:24] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/115468, l='ServerLevel[world]', x=2004.50, y=75.00, z=58.50]
+[04:43:30] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[04:43:41] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[04:43:57] [Server thread/INFO]: [El_Combu: Teleported El_Combu to MrOmar08]
+[04:43:58] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/115825, l='ServerLevel[world]', x=2039.50, y=70.00, z=106.50]
+[04:44:00] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/115857, l='ServerLevel[world]', x=2014.50, y=75.00, z=126.50]
+[04:44:01] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1938, 90, 87, minecraft:overworld
+[04:44:07] [Server thread/INFO]: Mojarra_Liciada has made the advancement [Disme A Dozen]
+[04:44:07] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/115872, l='ServerLevel[world]', x=2029.50, y=77.00, z=100.50]
+[04:44:20] [Server thread/INFO]: Named entity class_1604['Meike Criss the Pillager'/115794, l='ServerLevel[world]', x=1948.70, y=71.00, z=72.30] died: Meike Criss the Pillager went off with a bang
+[04:44:43] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/115994, l='ServerLevel[world]', x=2027.50, y=77.00, z=100.50]
+[04:44:44] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/116003, l='ServerLevel[world]', x=2022.50, y=76.00, z=-31.50]
+[04:44:48] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[04:44:54] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[04:44:56] [Server thread/INFO]: MrOmar08 was slain by Skeleton
+[04:45:00] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1935, 71, 75, minecraft:overworld
+[04:45:01] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[04:45:04] [Server thread/INFO]: El_Combu was slain by Skeleton
+[04:45:06] [Server thread/INFO]: KhalYork27 was slain by Skeleton
+[04:45:07] [Server thread/INFO]: MrOmar08 claimed a grave belonging to MrOmar08 at 1943, 81, 89, minecraft:overworld
+[04:45:08] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[04:45:09] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 1924.500000, 81.500000, 73.500000]
+[04:45:10] [Server thread/INFO]: El_Combu claimed a grave belonging to El_Combu at 1923, 81, 73, minecraft:overworld
+[04:45:11] [Server thread/INFO]: El_Combu was slain by Skeleton
+[04:45:14] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[04:45:16] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[04:45:16] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 1923.500000, 81.500000, 74.500000]
+[04:45:17] [Server thread/INFO]: El_Combu claimed a grave belonging to El_Combu at 1923, 81, 74, minecraft:overworld
+[04:45:24] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1939, 81, 82, minecraft:overworld
+[04:45:36] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to MrOmar08]
+[04:45:37] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1923, 82, 80, minecraft:overworld
+[04:46:10] [Server thread/INFO]: MrOmar08 was slain by Skeleton
+[04:46:14] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[04:46:23] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/118498, l='ServerLevel[world]', x=2031.50, y=74.00, z=85.50]
+[04:46:24] [Server thread/INFO]: MrOmar08 claimed a grave belonging to MrOmar08 at 1939, 72, 74, minecraft:overworld
+[04:46:48] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/118850, l='ServerLevel[world]', x=2016.50, y=73.00, z=75.50]
+[04:46:52] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/118904, l='ServerLevel[world]', x=1964.50, y=80.00, z=73.50]
+[04:46:54] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/118950, l='ServerLevel[world]', x=2033.50, y=74.00, z=84.50]
+[04:47:04] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/118973, l='ServerLevel[world]', x=2014.50, y=75.00, z=125.50]
+[04:47:17] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[04:47:22] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[04:47:25] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1932, 71, 79, minecraft:overworld
+[04:47:38] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/119527, l='ServerLevel[world]', x=2027.50, y=77.00, z=98.50]
+[04:47:43] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/119540, l='ServerLevel[world]', x=2028.50, y=77.00, z=100.50]
+[04:48:20] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/119769, l='ServerLevel[world]', x=2040.50, y=71.00, z=11.50]
+[04:48:22] [Server thread/INFO]: Named entity class_1604['Lawrence Hackbart the Pillager'/119644, l='ServerLevel[world]', x=1932.10, y=71.00, z=76.17] died: Lawrence Hackbart the Pillager was slain by El_Combu using [LA MONDA]
+[04:48:28] [Server thread/INFO]: MrOmar08 went off with a bang
+[04:48:30] [Server thread/INFO]: Named entity class_1604['Kynlee Putnam the Pillager'/119747, l='ServerLevel[world]', x=1948.70, y=71.00, z=72.30] died: Kynlee Putnam the Pillager was slain by El_Combu using [LA MONDA]
+[04:48:32] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[04:48:34] [Server thread/INFO]: MrOmar08 claimed a grave belonging to MrOmar08 at 1940, 71, 75, minecraft:overworld
+[04:48:36] [Server thread/INFO]: KhalYork27 went off with a bang
+[04:48:40] [Server thread/INFO]: Named entity class_1604['Kaczmar Ryner the Pillager'/118982, l='ServerLevel[world]', x=1943.70, y=71.00, z=82.70] died: Kaczmar Ryner the Pillager was slain by Mojarra_Liciada
+[04:48:41] [Server thread/INFO]: Mojarra_Liciada went off with a bang
+[04:48:43] [Server thread/INFO]: [El_Combu: Added 4 members to team [peto]]
+[04:48:44] [Server thread/INFO]: MrOmar08 went off with a bang
+[04:48:45] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/120410, l='ServerLevel[world]', x=2027.50, y=77.00, z=99.50]
+[04:48:45] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[04:48:45] [Server thread/INFO]: Named entity class_1604['Harding Croman the Pillager'/119545, l='ServerLevel[world]', x=1942.42, y=71.00, z=76.86] died: Harding Croman the Pillager was slain by El_Combu using [LA MONDA]
+[04:48:45] [Server thread/INFO]: KhalYork27 went off with a bang
+[04:48:46] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[04:48:47] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[04:48:49] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/120541, l='ServerLevel[world]', x=2031.50, y=74.00, z=83.50]
+[04:48:52] [Server thread/INFO]: MrOmar08 went off with a bang
+[04:48:52] [Server thread/INFO]: Named entity class_1604['Ulriah Daffern the Pillager'/113880, l='ServerLevel[world]', x=1943.70, y=71.00, z=82.70] died: Ulriah Daffern the Pillager was slain by El_Combu using [LA MONDA]
+[04:48:52] [Server thread/INFO]: Named entity class_1604['Seath Cordell the Pillager'/119932, l='ServerLevel[world]', x=1943.70, y=71.00, z=82.70] died: Seath Cordell the Pillager went off with a bang
+[04:48:53] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to KhalYork27]
+[04:48:54] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[04:48:56] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[04:48:56] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/120722, l='ServerLevel[world]', x=1984.50, y=75.00, z=29.50]
+[04:48:59] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1941, 71, 79, minecraft:overworld
+[04:48:59] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to El_Combu]
+[04:49:00] [Server thread/INFO]: Named entity class_1604['Upten Frangos the Pillager'/116002, l='ServerLevel[world]', x=1948.03, y=71.00, z=88.43] died: Upten Frangos the Pillager was slain by El_Combu using [LA MONDA]
+[04:49:04] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1941, 71, 81, minecraft:overworld
+[04:49:04] [Server thread/INFO]: MrOmar08 claimed a grave belonging to MrOmar08 at 1948, 71, 74, minecraft:overworld
+[04:49:09] [Server thread/INFO]: Named entity class_1604['Flan Boies the Pillager'/118502, l='ServerLevel[world]', x=1941.51, y=71.00, z=86.48] died: Flan Boies the Pillager was slain by El_Combu using [LA MONDA]
+[04:49:17] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/120931, l='ServerLevel[world]', x=2031.50, y=74.00, z=84.50]
+[04:49:28] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/121061, l='ServerLevel[world]', x=2015.50, y=73.00, z=74.50]
+[04:49:29] [Server thread/INFO]: Named entity class_1604['Jordan Barbay the Pillager'/120714, l='ServerLevel[world]', x=1938.30, y=63.06, z=87.70] died: Jordan Barbay the Pillager was slain by El_Combu using [LA MONDA]
+[04:49:32] [Server thread/INFO]: KhalYork27 went off with a bang
+[04:49:32] [Server thread/INFO]: Mojarra_Liciada went off with a bang
+[04:49:32] [Netty Epoll Server IO #5/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04:49:32] [Netty Epoll Server IO #5/ERROR]: Combo count: 6 is dual wielding: false
+[04:49:32] [Netty Epoll Server IO #5/ERROR]: Main-hand stack: 0 air
+[04:49:32] [Netty Epoll Server IO #5/ERROR]: Off-hand stack: 0 air
+[04:49:32] [Netty Epoll Server IO #5/ERROR]: Selected slot server: 2 | client: 2
+[04:49:33] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/121120, l='ServerLevel[world]', x=1984.50, y=75.00, z=27.50]
+[04:49:35] [Server thread/INFO]: Named entity class_1604['Meliora Uemura the Pillager'/120954, l='ServerLevel[world]', x=1944.94, y=63.06, z=89.70] died: Meliora Uemura the Pillager was slain by El_Combu using [LA MONDA]
+[04:49:39] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to El_Combu]
+[04:49:42] [Server thread/INFO]: Named entity class_1604['Jason Forbeck the Pillager'/121087, l='ServerLevel[world]', x=1942.30, y=53.00, z=75.53] died: Jason Forbeck the Pillager was slain by El_Combu using [LA MONDA]
+[04:49:42] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1945, 63, 87, minecraft:overworld
+[04:49:43] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[04:49:50] [Server thread/INFO]: KhalYork27 was slain by Skeleton
+[04:50:01] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[04:50:03] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[04:50:06] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1946, 63, 88, minecraft:overworld
+[04:50:06] [Server thread/INFO]: MrOmar08 was slain by Skeleton
+[04:50:08] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[04:50:09] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[04:50:13] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/122300, l='ServerLevel[world]', x=2016.50, y=75.00, z=126.50]
+[04:50:13] [Server thread/INFO]: MrOmar08 claimed a grave belonging to MrOmar08 at 1939, 53, 78, minecraft:overworld
+[04:50:14] [Server thread/INFO]: El_Combu was slain by Skeleton
+[04:50:14] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to El_Combu]
+[04:50:15] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[04:50:15] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/122324, l='ServerLevel[world]', x=2038.50, y=71.00, z=11.50]
+[04:50:18] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 1945.500000, 53.500000, 89.500000]
+[04:50:20] [Server thread/INFO]: El_Combu was slain by Skeleton
+[04:50:20] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to KhalYork27]
+[04:50:21] [Server thread/INFO]: MrOmar08 was slain by Skeleton
+[04:50:24] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[04:50:24] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 1947.500000, 53.500000, 90.500000]
+[04:50:25] [Server thread/INFO]: El_Combu was slain by Skeleton
+[04:50:29] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 1947.500000, 53.500000, 90.500000]
+[04:50:29] [Server thread/INFO]: El_Combu claimed a grave belonging to El_Combu at 1947, 53, 89, minecraft:overworld
+[04:50:30] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1946, 53, 87, minecraft:overworld
+[04:50:31] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[04:50:48] [Server thread/INFO]: MrOmar08 claimed a grave belonging to MrOmar08 at 1941, 64, 82, minecraft:overworld
+[04:50:55] [Server thread/INFO]: El_Combu was slain by Skeleton
+[04:50:55] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[04:51:01] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 1940.500000, 53.500000, 77.500000]
+[04:51:02] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to El_Combu]
+[04:51:02] [Server thread/INFO]: El_Combu was slain by Skeleton
+[04:51:04] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1943, 53, 75, minecraft:overworld
+[04:51:06] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[04:51:06] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 1940.500000, 53.500000, 76.500000]
+[04:51:06] [Server thread/INFO]: MrOmar08 was slain by Skeleton
+[04:51:07] [Server thread/INFO]: El_Combu claimed a grave belonging to El_Combu at 1940, 53, 77, minecraft:overworld
+[04:51:09] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[04:51:12] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to El_Combu]
+[04:51:13] [Server thread/INFO]: MrOmar08 claimed a grave belonging to MrOmar08 at 1948, 53, 88, minecraft:overworld
+[04:51:14] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1946, 53, 76, minecraft:overworld
+[04:51:26] [Server thread/INFO]: KhalYork27 has made the advancement [Close Quarters]
+[04:51:31] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[04:51:33] [Server thread/INFO]: KhalYork27 was slain by Skeleton
+[04:51:34] [Netty Epoll Server IO #4/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04:51:34] [Netty Epoll Server IO #4/ERROR]: Combo count: 0 is dual wielding: false
+[04:51:34] [Netty Epoll Server IO #4/ERROR]: Main-hand stack: 0 air
+[04:51:34] [Netty Epoll Server IO #4/ERROR]: Off-hand stack: 0 air
+[04:51:34] [Netty Epoll Server IO #4/ERROR]: Selected slot server: 3 | client: 3
+[04:51:35] [Server thread/INFO]: El_Combu was slain by Skeleton
+[04:51:37] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[04:51:40] [Server thread/INFO]: MrOmar08 was slain by Skeleton
+[04:51:40] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 1942.500000, 53.500000, 83.500000]
+[04:51:41] [Server thread/INFO]: El_Combu claimed a grave belonging to El_Combu at 1942, 53, 83, minecraft:overworld
+[04:51:42] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[04:51:43] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[04:51:44] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1941, 53, 84, minecraft:overworld
+[04:51:48] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/126455, l='ServerLevel[world]', x=2040.50, y=71.00, z=12.50]
+[04:51:52] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/126466, l='ServerLevel[world]', x=2015.50, y=73.00, z=76.50]
+[04:51:52] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/126467, l='ServerLevel[world]', x=2029.50, y=77.00, z=99.50]
+[04:51:54] [Server thread/INFO]: Named entity class_1604['Radcliff Behunin the Pillager'/123802, l='ServerLevel[world]', x=1950.70, y=53.06, z=67.30] died: Radcliff Behunin the Pillager was slain by El_Combu using [LA MONDA]
+[04:51:59] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1945, 53, 75, minecraft:overworld
+[04:52:02] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[04:52:09] [Server thread/INFO]: Mojarra_Liciada went off with a bang
+[04:52:09] [Netty Epoll Server IO #5/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04:52:09] [Netty Epoll Server IO #5/ERROR]: Combo count: 8 is dual wielding: false
+[04:52:09] [Netty Epoll Server IO #5/ERROR]: Main-hand stack: 0 air
+[04:52:09] [Netty Epoll Server IO #5/ERROR]: Off-hand stack: 0 air
+[04:52:09] [Netty Epoll Server IO #5/ERROR]: Selected slot server: 0 | client: 0
+[04:52:11] [Server thread/INFO]: KhalYork27 went off with a bang
+[04:52:11] [Server thread/INFO]: Named entity class_1604['Thabita Macedo the Pillager'/126437, l='ServerLevel[world]', x=1947.15, y=53.00, z=88.99] died: Thabita Macedo the Pillager went off with a bang
+[04:52:13] [Server thread/INFO]: Named entity class_1604['Barrik Fahey the Pillager'/122176, l='ServerLevel[world]', x=1950.22, y=53.00, z=90.36] died: Barrik Fahey the Pillager was slain by El_Combu using [LA MONDA]
+[04:52:14] [Server thread/INFO]: Named entity class_1604['Nicomedo Schroeder the Pillager'/121528, l='ServerLevel[world]', x=1951.70, y=53.00, z=85.30] died: Nicomedo Schroeder the Pillager went off with a bang
+[04:52:14] [Server thread/INFO]: Named entity class_1604['Odilia Frankart the Pillager'/124565, l='ServerLevel[world]', x=1951.70, y=53.00, z=87.77] died: Odilia Frankart the Pillager went off with a bang
+[04:52:15] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[04:52:16] [Server thread/INFO]: Named entity class_1604['Margie Buote the Pillager'/123714, l='ServerLevel[world]', x=1947.70, y=53.00, z=87.05] died: Margie Buote the Pillager was slain by El_Combu using [LA MONDA]
+[04:52:17] [Server thread/INFO]: Named entity class_1604['Uta Estis the Pillager'/123896, l='ServerLevel[world]', x=1944.15, y=53.00, z=88.55] died: Uta Estis the Pillager went off with a bang
+[04:52:20] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[04:52:21] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/127115, l='ServerLevel[world]', x=2004.50, y=75.00, z=56.50]
+[04:52:23] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1943, 54, 90, minecraft:overworld
+[04:52:27] [Server thread/INFO]: Named entity class_1604['Quirina Counter the Pillager'/121511, l='ServerLevel[world]', x=1948.41, y=53.00, z=88.77] died: Quirina Counter the Pillager was slain by El_Combu using [LA MONDA]
+[04:52:28] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1951, 54, 81, minecraft:overworld
+[04:52:36] [Server thread/INFO]: MrOmar08 claimed a grave belonging to MrOmar08 at 1950, 53, 67, minecraft:overworld
+[04:52:46] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/127266, l='ServerLevel[world]', x=2040.50, y=75.00, z=-13.50]
+[04:52:55] [Server thread/INFO]: Mojarra_Liciada went off with a bang
+[04:52:59] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/127448, l='ServerLevel[world]', x=2015.50, y=72.00, z=22.50]
+[04:53:00] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[04:53:03] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1939, 53, 74, minecraft:overworld
+[04:53:04] [Server thread/INFO]: Named entity class_1604['Sarai Bohler the Pillager'/127287, l='ServerLevel[world]', x=1928.30, y=47.00, z=84.70] died: Sarai Bohler the Pillager was slain by Skeleton
+[04:53:09] [Server thread/INFO]: Named entity class_1604['Ignacey Scheibe the Pillager'/127176, l='ServerLevel[world]', x=1926.30, y=47.00, z=75.95] died: Ignacey Scheibe the Pillager was slain by Skeleton
+[04:53:17] [Server thread/INFO]: Named entity class_1604['Oonagh Myszkowski the Pillager'/127172, l='ServerLevel[world]', x=1932.45, y=47.80, z=75.33] died: Oonagh Myszkowski the Pillager was slain by Skeleton
+[04:53:18] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[04:53:20] [Server thread/INFO]: Named entity class_1604['Nyree Hora the Pillager'/127285, l='ServerLevel[world]', x=1932.21, y=48.00, z=73.96] died: Nyree Hora the Pillager went off with a bang
+[04:53:20] [Server thread/INFO]: Named entity class_1604['Lynde Fruchtman the Pillager'/125504, l='ServerLevel[world]', x=1932.97, y=49.00, z=72.16] died: Lynde Fruchtman the Pillager was slain by El_Combu using [LA MONDA]
+[04:53:21] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/127796, l='ServerLevel[world]', x=2015.50, y=72.00, z=21.50]
+[04:53:23] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[04:53:25] [Server thread/INFO]: Named entity class_1604['Mahkah Ferner the Pillager'/125344, l='ServerLevel[world]', x=1935.94, y=45.00, z=78.67] died: Mahkah Ferner the Pillager was slain by Skeleton
+[04:53:32] [Server thread/INFO]: Named entity class_1604['Camilo Endries the Pillager'/127653, l='ServerLevel[world]', x=1937.62, y=45.00, z=81.52] died: Camilo Endries the Pillager was slain by Skeleton
+[04:53:33] [Server thread/INFO]: KhalYork27 went off with a bang
+[04:53:33] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1933, 53, 88, minecraft:overworld
+[04:53:33] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[04:53:40] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to KhalYork27]
+[04:53:42] [Server thread/INFO]: [El_Combu: Teleported El_Combu to MrOmar08]
+[04:53:43] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[04:53:47] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[04:53:51] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1931, 47, 69, minecraft:overworld
+[04:53:58] [Server thread/INFO]: Named entity class_1604['Viktoria Croll the Pillager'/127555, l='ServerLevel[world]', x=1927.41, y=47.00, z=68.39] died: Viktoria Croll the Pillager was slain by El_Combu using [LA MONDA]
+[04:53:58] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1935, 53, 89, minecraft:overworld
+[04:54:05] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[04:54:09] [Server thread/INFO]: Named entity class_1604['Honoratus Ackland the Pillager'/128240, l='ServerLevel[world]', x=1932.59, y=47.00, z=77.70] died: Honoratus Ackland the Pillager went off with a bang
+[04:54:10] [Server thread/INFO]: Named entity class_1604['Euphrosyne Christison the Pillager'/128260, l='ServerLevel[world]', x=1937.17, y=45.00, z=80.06] died: Euphrosyne Christison the Pillager was slain by Skeleton
+[04:54:12] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[04:54:16] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1942, 53, 77, minecraft:overworld
+[04:54:20] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1934, y=47, z=89} as the loot table 'dungeons_arise:chests/desert_city_medium' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[04:54:28] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1936, y=46, z=68} as the loot table 'dungeons_arise:chests/desert_city_big' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[04:54:30] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1948, y=46, z=76} as the loot table 'dungeons_arise:chests/desert_city_big' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[04:54:32] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1936, y=46, z=68} as the loot table 'dungeons_arise:chests/desert_city_big' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[04:54:32] [Server thread/INFO]: El_Combu has made the advancement [Penteconter]
+[04:54:32] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1948, y=46, z=76} as the loot table 'dungeons_arise:chests/desert_city_big' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[04:54:42] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1936, y=46, z=68} as the loot table 'dungeons_arise:chests/desert_city_big' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[04:54:49] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1948, y=46, z=76} as the loot table 'dungeons_arise:chests/desert_city_big' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[04:54:54] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[04:54:59] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to El_Combu]
+[04:55:01] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1930, 47, 80, minecraft:overworld
+[04:55:03] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1934, y=47, z=89} as the loot table 'dungeons_arise:chests/desert_city_medium' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[04:55:11] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1934, y=47, z=89} as the loot table 'dungeons_arise:chests/desert_city_medium' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[04:55:11] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1948, y=46, z=76} as the loot table 'dungeons_arise:chests/desert_city_big' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[04:55:15] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1936, y=46, z=68} as the loot table 'dungeons_arise:chests/desert_city_big' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[04:55:50] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1934, y=47, z=89} as the loot table 'dungeons_arise:chests/desert_city_medium' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[04:56:51] [Server thread/INFO]: [El_Combu: Teleported El_Combu to MrOmar08]
+[04:56:57] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] in ServerLevel[world] around class_2338{x=1928, y=63, z=73} within 50 chunks
+[04:57:02] [asynclocator-1-thread-1/INFO]: Async Locator -> No TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] found (took 5,416ms)
+[04:57:02] [Server thread/INFO]: Async Locator -> No location found - invalidating map stack
+[04:57:04] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/129974, l='ServerLevel[world]', x=2039.50, y=70.00, z=105.50]
+[04:57:13] [Server thread/INFO]: Mojarra_Liciada has made the advancement [Close Quarters]
+[04:57:14] [Server thread/INFO]: Mojarra_Liciada has made the advancement [Cover Me with Diamonds]
+[04:57:25] [Server thread/INFO]: Named entity class_1604['Achill Cleek the Pillager'/129766, l='ServerLevel[world]', x=1933.30, y=71.00, z=73.30] died: Achill Cleek the Pillager was slain by El_Combu using [LA MONDA]
+[04:57:28] [Server thread/INFO]: [El_Combu: Teleported El_Combu to Mojarra_Liciada]
+[04:58:52] [Server thread/INFO]: MrOmar08 has made the advancement [Close Quarters]
+[04:59:06] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/130847, l='ServerLevel[world]', x=2023.50, y=76.00, z=-31.50]
+[04:59:09] [Server thread/INFO]: Named entity class_1604['Joelle Schepps the Pillager'/130584, l='ServerLevel[world]', x=1939.29, y=108.00, z=68.77] died: Joelle Schepps the Pillager was slain by Mojarra_Liciada
+[04:59:20] [Server thread/INFO]: Named entity class_1604['Duffy Babb the Pillager'/130807, l='ServerLevel[world]', x=1946.32, y=107.06, z=74.02] died: Duffy Babb the Pillager went off with a bang
+[04:59:30] [Server thread/INFO]: Named entity class_1604['Flaviah Overmiller the Pillager'/130670, l='ServerLevel[world]', x=1927.17, y=107.75, z=78.67] died: Flaviah Overmiller the Pillager was slain by El_Combu using [LA MONDA]
+[05:00:05] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[05:00:12] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to KhalYork27]
+[05:00:14] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1945, 99, 88, minecraft:overworld
+[05:00:49] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/131846, l='ServerLevel[world]', x=2013.50, y=76.00, z=-41.50]
+[05:01:03] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[05:01:06] [Server thread/INFO]: Mojarra_Liciada lost connection: Disconnected
+[05:01:06] [Server thread/INFO]: Mojarra_Liciada left the game
+[05:01:07] [Server thread/INFO]: MrOmar08 lost connection: Disconnected
+[05:01:07] [Server thread/INFO]: MrOmar08 left the game
+[05:01:11] [Server thread/INFO]: KhalYork27 lost connection: Disconnected
+[05:01:11] [Server thread/INFO]: KhalYork27 left the game
+[05:01:23] [Server thread/INFO]: El_Combu was slain by Skeleton
+[05:01:28] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 1947.500000, 118.500000, 81.500000]
+[05:01:28] [Server thread/INFO]: El_Combu was slain by Skeleton
+[05:01:33] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 1948.500000, 118.500000, 82.500000]
+[05:01:34] [Server thread/INFO]: El_Combu claimed a grave belonging to El_Combu at 1947, 118, 81, minecraft:overworld
+[05:01:48] [Server thread/INFO]: KhalYork27[/127.125.128.150:50837] logged in with entity id 134150 at (1947.51124942683, 117.41999998688698, 87.04057571063129)
+[05:01:48] [Server thread/INFO]: Sending server config values to client
+[05:01:48] [Server thread/INFO]: Syncing config to KhalYork27 (56aaf9dc-e409-3b28-9484-2673552dd024)
+[05:01:48] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:01:48] [Server thread/INFO]: KhalYork27 joined the game
+[05:01:49] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[05:01:54] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player KhalYork27. Claiming: GRAVE / Robbing: INVENTORY
+[05:01:54] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:01:54] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:01:54] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:01:54] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05:01:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05:01:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05:01:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05:01:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05:01:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05:01:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05:01:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:01:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:01:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:01:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:01:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:01:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:01:54] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:01:54] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/cautious-engine/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:02:08] [Server thread/INFO]: Named entity class_1604['Durwood Che the Pillager'/133503, l='ServerLevel[world]', x=1934.70, y=121.00, z=71.70] died: Durwood Che the Pillager was slain by El_Combu using [LA MONDA]
+[05:02:31] [Server thread/INFO]: Mojarra_Liciada[/127.30.9.217:36811] logged in with entity id 134576 at (1944.8724203981265, 107.52884750372172, 74.62931099422086)
+[05:02:31] [Server thread/INFO]: Sending server config values to client
+[05:02:31] [Server thread/INFO]: Syncing config to Mojarra_Liciada (90050eb0-9fcf-31da-b217-e9b4ae6fb199)
+[05:02:31] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:02:31] [Server thread/INFO]: Mojarra_Liciada joined the game
+[05:02:31] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[05:02:31] [Server thread/INFO]: KhalYork27 went off with a bang
+[05:02:33] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:02:33] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Mojarra_Liciada. Claiming: GRAVE / Robbing: INVENTORY
+[05:02:33] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:02:33] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:02:33] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05:02:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05:02:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05:02:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05:02:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05:02:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05:02:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05:02:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:02:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:02:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:02:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:02:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:02:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:02:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:02:33] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/cautious-engine/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:02:33] [Server thread/INFO]: Named entity class_1604['Sagittarius Quadros the Pillager'/133502, l='ServerLevel[world]', x=1943.09, y=107.06, z=81.08] died: Sagittarius Quadros the Pillager was slain by El_Combu using [LA MONDA]
+[05:02:36] [Server thread/INFO]: Named entity class_1604['Flo Allum the Pillager'/133833, l='ServerLevel[world]', x=1943.84, y=110.00, z=79.41] died: Flo Allum the Pillager went off with a bang
+[05:02:37] [Server thread/INFO]: Named entity class_1604['Khanna Eynon the Pillager'/133518, l='ServerLevel[world]', x=1944.29, y=110.00, z=79.57] died: Khanna Eynon the Pillager went off with a bang
+[05:02:38] [Server thread/INFO]: Named entity class_1604['Navy Renda the Pillager'/133501, l='ServerLevel[world]', x=1937.01, y=108.50, z=79.09] died: Navy Renda the Pillager was slain by El_Combu using [LA MONDA]
+[05:02:40] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[05:02:42] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to KhalYork27]
+[05:02:43] [Server thread/INFO]: Named entity class_1604['Errica Zaczek the Pillager'/134248, l='ServerLevel[world]', x=1937.81, y=108.00, z=77.50] died: Errica Zaczek the Pillager was slain by El_Combu using [LA MONDA]
+[05:02:43] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1940, 107, 75, minecraft:overworld
+[05:02:44] [Server thread/INFO]: Mojarra_Liciada went off with a bang
+[05:02:47] [Server thread/INFO]: Named entity class_1604['Cailean Ostrand the Pillager'/134249, l='ServerLevel[world]', x=1948.38, y=107.06, z=72.30] died: Cailean Ostrand the Pillager went off with a bang
+[05:02:52] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to KhalYork27]
+[05:02:54] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1945, 107, 74, minecraft:overworld
+[05:02:56] [Server thread/INFO]: KhalYork27 was slain by Skeleton
+[05:03:12] [Server thread/INFO]: MrOmar08[/127.255.152.184:49683] logged in with entity id 135392 at (1937.1546897512505, 112.0, 78.24631072144861)
+[05:03:12] [Server thread/INFO]: Sending server config values to client
+[05:03:12] [Server thread/INFO]: Syncing config to MrOmar08 (a33b400c-8fea-3db2-a80e-382d56f2d832)
+[05:03:12] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:03:12] [Server thread/INFO]: MrOmar08 joined the game
+[05:03:12] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[05:03:13] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[05:03:14] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player MrOmar08. Claiming: GRAVE / Robbing: INVENTORY
+[05:03:14] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:03:14] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:03:14] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:03:14] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05:03:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05:03:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05:03:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05:03:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05:03:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05:03:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05:03:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:03:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:03:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:03:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:03:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:03:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:03:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:03:14] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/cautious-engine/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:03:27] [Server thread/INFO]: Named entity class_1604['Arsenyo Brustad the Pillager'/133519, l='ServerLevel[world]', x=1948.70, y=125.00, z=89.76] died: Arsenyo Brustad the Pillager was slain by El_Combu using [LA MONDA]
+[05:03:40] [Server thread/INFO]: KhalYork27 was slain by Skeleton
+[05:03:49] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to MrOmar08]
+[05:03:50] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1946, 109, 78, minecraft:overworld
+[05:03:57] [Server thread/INFO]: Mojarra_Liciada has made the advancement [This Must be a Sign!]
+[05:04:03] [Server thread/INFO]: El_Combu was slain by Skeleton
+[05:04:06] [Server thread/INFO]: KhalYork27 was slain by Skeleton
+[05:04:07] [Netty Epoll Server IO #4/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05:04:07] [Netty Epoll Server IO #4/ERROR]: Combo count: 2 is dual wielding: false
+[05:04:07] [Netty Epoll Server IO #4/ERROR]: Main-hand stack: 0 air
+[05:04:07] [Netty Epoll Server IO #4/ERROR]: Off-hand stack: 0 air
+[05:04:07] [Netty Epoll Server IO #4/ERROR]: Selected slot server: 6 | client: 6
+[05:04:08] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 1942.500000, 135.500000, 69.500000]
+[05:04:09] [Server thread/INFO]: El_Combu claimed a grave belonging to El_Combu at 1941, 135, 69, minecraft:overworld
+[05:04:18] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to MrOmar08]
+[05:04:21] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1945, 107, 73, minecraft:overworld
+[05:05:27] [Server thread/INFO]: El_Combu has made the advancement [Fortune Seeker]
+[05:06:02] [Server thread/INFO]: KhalYork27 was slain by Skeleton
+[05:06:10] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to MrOmar08]
+[05:06:14] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1935, 125, 74, minecraft:overworld
+[05:06:33] [Server thread/INFO]: Named entity class_1604['Amey Collister the Pillager'/135874, l='ServerLevel[world]', x=1943.70, y=126.22, z=80.92] died: Amey Collister the Pillager was slain by MrOmar08
+[05:07:35] [Server thread/INFO]: KhalYork27 was slain by Skeleton
+[05:07:42] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[05:07:43] [Server thread/INFO]: Named entity class_1604['Sverinus Peterse the Pillager'/135493, l='ServerLevel[world]', x=1938.13, y=143.00, z=87.50] died: Sverinus Peterse the Pillager was slain by El_Combu using [LA MONDA]
+[05:07:46] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1929, 143, 81, minecraft:overworld
+[05:07:59] [Server thread/INFO]: Named entity class_1604['Honee Qualls the Pillager'/139509, l='ServerLevel[world]', x=1932.30, y=143.00, z=89.70] died: Honee Qualls the Pillager was slain by El_Combu using [LA MONDA]
+[05:08:02] [Server thread/INFO]: KhalYork27 went off with a bang
+[05:08:02] [Server thread/INFO]: Named entity class_1604['Haren Fischer the Pillager'/140115, l='ServerLevel[world]', x=1936.55, y=143.00, z=88.30] died: Haren Fischer the Pillager went off with a bang
+[05:08:05] [Server thread/INFO]: Named entity class_1604['Doryfey Ulbricht the Pillager'/139242, l='ServerLevel[world]', x=1931.95, y=143.00, z=86.30] died: Doryfey Ulbricht the Pillager was slain by El_Combu using [LA MONDA]
+[05:08:17] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[05:08:18] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1932, 143, 87, minecraft:overworld
+[05:08:29] [Server thread/INFO]: Named entity class_1604['Urvasi Ackmann the Pillager'/140205, l='ServerLevel[world]', x=1939.70, y=144.00, z=81.70] died: Urvasi Ackmann the Pillager was slain by El_Combu using [LA MONDA]
+[05:08:31] [Server thread/INFO]: Named entity class_1604['Patric Frazzini the Pillager'/140731, l='ServerLevel[world]', x=1930.70, y=143.00, z=78.70] died: Patric Frazzini the Pillager was slain by KhalYork27
+[05:08:31] [Server thread/INFO]: Named entity class_1604['Falica Quattrucci the Pillager'/140771, l='ServerLevel[world]', x=1938.70, y=143.00, z=77.30] died: Falica Quattrucci the Pillager was slain by El_Combu using [LA MONDA]

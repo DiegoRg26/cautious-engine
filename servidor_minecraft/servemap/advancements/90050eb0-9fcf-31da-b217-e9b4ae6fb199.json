@@ -145,6 +145,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-16 04:46:46 +0000",
       "cooked_mutton": "2025-04-09 04:25:04 +0000",
       "sweet_berries": "2025-04-09 02:37:58 +0000",
       "cooked_beef": "2025-04-09 02:57:08 +0000",
@@ -2880,6 +2881,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-04-16 04:39:34 +0000",
       "minecraft:river": "2025-04-09 03:04:58 +0000",
       "minecraft:lush_caves": "2025-04-12 22:08:59 +0000"
     },
@@ -4865,45 +4867,45 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-04-16 02:17:07 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-16 02:17:07 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_hammer": {
+    "criteria": {
+      "has_material": "2025-04-16 02:17:07 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-04-16 02:17:07 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-16 02:17:07 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-04-16 02:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-04-16 02:42:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-04-16 04:27:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-16 02:42:32 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/end_stone_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-16 02:42:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-04-16 03:34:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:34:37 +0000"
     },
     "done": true
   },
@@ -4919,51 +4921,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_boots": "2025-04-16 03:36:42 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/desert_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_dark_oak": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:32:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-16 02:42:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-04-16 03:32:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bacon_sandwich": {
-    "criteria": {
-      "has_bacon": "2025-04-16 04:34:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-04-16 03:10:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-16 02:42:32 +0000"
     },
     "done": true
   },
@@ -4979,135 +4939,15 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/sulphur_gunpowder": {
-    "criteria": {
-      "has_bone_meal": "2025-04-16 03:34:53 +0000"
-    },
-    "done": true
-  },
   "justhammers:recipes/tools/stone_destructor_hammer": {
     "criteria": {
       "has_material": "2025-04-16 02:42:10 +0000"
     },
     "done": true
   },
-  "justhammers:recipes/tools/iron_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2025-04-16 02:17:07 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:32:01 +0000"
-    },
-    "done": true
-  },
   "justhammers:recipes/tools/stone_impact_hammer": {
     "criteria": {
       "has_material": "2025-04-16 02:42:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/hamburger": {
-    "criteria": {
-      "has_beef_patty": "2025-04-16 04:30:10 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/planter_rich": {
-    "criteria": {
-      "has_bone_meal": "2025-04-16 03:34:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:32:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-04-16 02:45:28 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/blackstone_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:34:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:34:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-04-16 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-04-16 04:02:36 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/stone_brick_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:34:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-04-16 04:02:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:32:01 +0000"
     },
     "done": true
   },
@@ -5120,108 +4960,6 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-04-16 02:42:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-04-16 03:34:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:34:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:32:01 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_dark_oak": {
-    "criteria": {
-      "has_the_recipe": "2025-04-16 03:32:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:32:01 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/waystone_scroll": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_boots": "2025-04-16 03:36:42 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_cherry": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:34:37 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/nether_brick_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:34:37 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-04-16 02:17:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:32:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:34:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:34:37 +0000"
     },
     "done": true
   },
@@ -5243,75 +4981,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-04-16 04:27:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-04-16 03:32:50 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/deepslate_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/diamond_hammer": {
-    "criteria": {
-      "has_material": "2025-04-16 02:21:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-04-16 04:27:02 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:32:01 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-16 02:42:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-16 02:42:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:32:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:32:01 +0000"
     },
     "done": true
   },
@@ -5321,51 +4993,9 @@
     },
     "done": true
   },
-  "fwaystones:recipes/local_void": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-16 02:42:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-16 02:42:32 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile": {
-    "criteria": {
-      "has_obsidian": "2025-04-16 03:14:52 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_hammer": {
-    "criteria": {
-      "has_material": "2025-04-16 02:17:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-16 03:34:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-16 02:42:32 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/red_desert_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
     },
     "done": true
   },
@@ -5387,27 +5017,45 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/iron_destructor_hammer": {
+  "justhammers:recipes/tools/stone_reinforced_hammer": {
     "criteria": {
-      "has_material": "2025-04-16 02:17:07 +0000"
+      "has_material": "2025-04-16 02:42:10 +0000"
     },
     "done": true
   },
-  "betternether:recipes/decorations/cincinnasite_lantern": {
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
-      "has_glowstone": "2025-04-16 04:02:36 +0000"
+      "has_deepslate_tiles": "2025-04-16 02:42:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
-      "has_glowstone_dust": "2025-04-16 04:02:22 +0000"
+      "has_deepslate_tiles": "2025-04-16 02:42:32 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/sign_post_cherry": {
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
-      "has_the_recipe": "2025-04-16 03:34:37 +0000"
+      "has_deepslate_tiles": "2025-04-16 02:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-16 02:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-16 02:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-16 02:42:32 +0000"
     },
     "done": true
   },
@@ -5417,9 +5065,135 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/stone_reinforced_hammer": {
+  "fwaystones:recipes/end_stone_waystone": {
     "criteria": {
-      "has_material": "2025-04-16 02:42:10 +0000"
+      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/desert_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/blackstone_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/stone_brick_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/waystone_scroll": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/nether_brick_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/deepslate_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/local_void": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/red_desert_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-04-16 02:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-16 03:10:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-16 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-04-16 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-04-16 03:14:52 +0000"
     },
     "done": true
   },
@@ -5429,9 +5203,249 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/iron_impact_hammer": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "has_material": "2025-04-16 02:17:07 +0000"
+      "has_obsidian": "2025-04-16 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-04-16 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-04-16 03:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-04-16 03:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:34:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-16 03:34:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_cherry": {
+    "criteria": {
+      "has_the_recipe": "2025-04-16 03:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-16 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2025-04-16 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-04-16 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-16 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-04-16 03:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-04-16 03:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-16 04:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-16 04:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-04-16 04:02:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_glowstone": "2025-04-16 04:02:36 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2025-04-16 04:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-16 04:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-16 04:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-16 04:27:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-04-16 04:30:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-04-16 04:34:46 +0000"
     },
     "done": true
   },
@@ -5441,15 +5455,106 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "dungeons_arise:find_bandit_towers": {
     "criteria": {
-      "has_obsidian": "2025-04-16 03:14:52 +0000"
+      "location0": "2025-04-16 04:38:26 +0000"
     },
     "done": true
   },
-  "justhammers:recipes/tools/gold_hammer": {
+  "lootr:social": {
     "criteria": {
-      "has_material": "2025-04-16 04:25:31 +0000"
+      "opened_barrel": "2025-04-16 04:38:35 +0000",
+      "opened_chest": "2025-04-16 04:39:08 +0000"
+    },
+    "done": false
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-16 04:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-16 04:38:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-16 04:38:57 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-16 04:39:08 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-04-16 04:39:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-04-16 04:39:14 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-16 04:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-16 04:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-16 04:46:59 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-16 04:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-16 04:57:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-16 04:58:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-04-16 04:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-04-16 05:05:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-04-16 05:03:57 +0000"
     },
     "done": true
   },
