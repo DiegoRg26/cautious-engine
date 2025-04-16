@@ -4001,3 +4001,223 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [05:19:19] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1936, y=208, z=68} as the loot table 'dungeons_arise:chests/desert_city_big' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
 [05:19:46] [Server thread/INFO]: KhalYork27 was blown up by Badlands Creeper
 [05:19:48] [Server thread/INFO]: Named entity class_1604['Vitoria Ghent the Pillager'/150298, l='ServerLevel[world]', x=1954.90, y=116.00, z=46.89] died: Vitoria Ghent the Pillager fell from a high place
+[05:19:54] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to MrOmar08]
+[05:19:56] [Server thread/INFO]: Named entity class_1604['Jax Gosda the Pillager'/150287, l='ServerLevel[world]', x=1949.30, y=215.00, z=71.48] died: Jax Gosda the Pillager was slain by Mojarra_Liciada
+[05:19:57] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1947, 215, 66, minecraft:overworld
+[05:20:23] [Server thread/INFO]: KhalYork27 was slain by Skeleton
+[05:20:37] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to MrOmar08]
+[05:20:50] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1930, 219, 66, minecraft:overworld
+[05:21:26] [Server thread/INFO]: MrOmar08 was slain by Skeleton
+[05:21:28] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell rogues:throw Entity not found: 151566
+[05:21:31] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[05:21:33] [Server thread/INFO]: MrOmar08 claimed a grave belonging to MrOmar08 at 1927, 215, 73, minecraft:overworld
+[05:21:54] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/152340, l='ServerLevel[world]', x=2041.50, y=75.00, z=-14.50]
+[05:22:00] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[05:22:14] [Server thread/INFO]: [El_Combu: Teleported El_Combu to MrOmar08]
+[05:22:16] [Server thread/INFO]: MrOmar08 has made the advancement [Penteconter]
+[05:23:18] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] in ServerLevel[world] around class_2338{x=1927, y=225, z=68} within 50 chunks
+[05:23:23] [asynclocator-1-thread-1/INFO]: Async Locator -> No TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] found (took 4,750ms)
+[05:23:23] [Server thread/INFO]: Async Locator -> No location found - invalidating map stack
+[05:23:57] [Server thread/INFO]: SaitamaSena[/127.116.53.181:40163] logged in with entity id 152958 at (142.37104463948103, 83.0, 492.69999998807907)
+[05:23:57] [Server thread/INFO]: Sending server config values to client
+[05:23:57] [Server thread/INFO]: Syncing config to SaitamaSena (8b53bfe0-ddf2-3827-8126-494c4606546b)
+[05:23:57] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:23:57] [Server thread/INFO]: SaitamaSena joined the game
+[05:23:58] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[05:23:59] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:23:59] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player SaitamaSena. Claiming: GRAVE / Robbing: INVENTORY
+[05:23:59] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:23:59] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:23:59] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:23:59] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/cautious-engine/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:25:33] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] in ServerLevel[world] around class_2338{x=1927, y=225, z=68} within 50 chunks
+[05:25:37] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[05:25:37] [asynclocator-1-thread-1/INFO]: Async Locator -> No TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] found (took 4,810ms)
+[05:25:37] [Server thread/INFO]: Async Locator -> No location found - invalidating map stack
+[05:26:00] [Server thread/INFO]: El_Combu has completed the challenge [Centennial]
+[05:26:02] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[05:26:35] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] in ServerLevel[world] around class_2338{x=1946, y=225, z=28} within 50 chunks
+[05:26:40] [asynclocator-1-thread-1/INFO]: Async Locator -> No TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] found (took 4,836ms)
+[05:26:40] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] in ServerLevel[world] around class_2338{x=1948, y=225, z=29} within 50 chunks
+[05:26:40] [Server thread/INFO]: Async Locator -> No location found - invalidating map stack
+[05:26:44] [asynclocator-1-thread-1/INFO]: Async Locator -> No TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] found (took 4,763ms)
+[05:26:44] [Server thread/INFO]: Async Locator -> No location found - invalidating map stack
+[05:26:57] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] in ServerLevel[world] around class_2338{x=1946, y=225, z=28} within 50 chunks
+[05:27:02] [asynclocator-1-thread-1/INFO]: Async Locator -> No TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] found (took 4,774ms)
+[05:27:02] [Server thread/INFO]: Async Locator -> No location found - invalidating map stack
+[05:27:12] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] in ServerLevel[world] around class_2338{x=1948, y=225, z=29} within 50 chunks
+[05:27:15] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/153848, l='ServerLevel[world]', x=2042.50, y=75.00, z=-13.50]
+[05:27:17] [asynclocator-1-thread-1/INFO]: Async Locator -> No TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] found (took 4,833ms)
+[05:27:17] [Server thread/INFO]: Async Locator -> No location found - invalidating map stack
+[05:27:24] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[05:27:38] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[05:27:53] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1928, 227, 77, minecraft:overworld
+[05:28:00] [Server thread/INFO]: Named entity class_1604['Carr Yu the Pillager'/154210, l='ServerLevel[world]', x=1954.45, y=116.00, z=44.41] died: Carr Yu the Pillager fell from a high place
+[05:28:12] [Server thread/INFO]: Named entity class_1604['Lynet Birky the Pillager'/154081, l='ServerLevel[world]', x=1944.70, y=215.00, z=50.70] died: Lynet Birky the Pillager was shot by Skeleton
+[05:28:37] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/154372, l='ServerLevel[world]', x=2015.50, y=76.00, z=-43.50]
+[05:28:41] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] in ServerLevel[world] around class_2338{x=1933, y=219, z=41} within 50 chunks
+[05:28:46] [asynclocator-1-thread-1/INFO]: Async Locator -> No TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] found (took 4,800ms)
+[05:28:46] [Server thread/INFO]: Async Locator -> No location found - invalidating map stack
+[05:29:05] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/154487, l='ServerLevel[world]', x=2024.50, y=76.00, z=-30.50]
+[05:29:42] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] in ServerLevel[world] around class_2338{x=1946, y=225, z=28} within 50 chunks
+[05:29:47] [asynclocator-1-thread-1/INFO]: Async Locator -> No TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] found (took 4,869ms)
+[05:29:47] [Server thread/INFO]: Async Locator -> No location found - invalidating map stack
+[05:30:24] [Server thread/INFO]: <MrOmar08> T
+[05:30:29] [Server thread/INFO]: [El_Combu: Teleported El_Combu to MrOmar08]
+[05:30:34] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/155710, l='ServerLevel[world]', x=2024.50, y=76.00, z=-31.50]
+[05:30:39] [Server thread/INFO]: MrOmar08 was slain by Skeleton
+[05:30:58] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to KhalYork27]
+[05:31:21] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/156442, l='ServerLevel[world]', x=2014.50, y=76.00, z=-41.50]
+[05:31:36] [Server thread/INFO]: MrOmar08 claimed a grave belonging to MrOmar08 at 1946, 225, 88, minecraft:overworld
+[05:31:50] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[05:32:02] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[05:32:09] [Server thread/INFO]: SaitamaSena has made the advancement [Stay dead]
+[05:32:43] [Server thread/INFO]: KhalYork27 lost connection: Disconnected
+[05:32:43] [Server thread/INFO]: KhalYork27 left the game
+[05:32:46] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/158333, l='ServerLevel[world]', x=2060.50, y=72.00, z=-25.50]
+[05:32:48] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[05:32:54] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] in ServerLevel[world] around class_2338{x=2008, y=226, z=80} within 50 chunks
+[05:32:59] [asynclocator-1-thread-1/INFO]: Async Locator -> No TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] found (took 4,914ms)
+[05:32:59] [Server thread/INFO]: Async Locator -> No location found - invalidating map stack
+[05:33:04] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/158740, l='ServerLevel[world]', x=2070.50, y=72.00, z=-0.50]
+[05:33:42] [Server thread/INFO]: MrOmar08 lost connection: Disconnected
+[05:33:42] [Server thread/INFO]: MrOmar08 left the game
+[05:33:46] [Server thread/INFO]: SaitamaSena lost connection: Disconnected
+[05:33:46] [Server thread/INFO]: SaitamaSena left the game
+[05:33:58] [Server thread/INFO]: Named entity class_1604['Linnie Nafus the Pillager'/156788, l='ServerLevel[world]', x=1999.70, y=226.00, z=76.30] died: Linnie Nafus the Pillager went off with a bang
+[05:35:06] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/161279, l='ServerLevel[world]', x=2058.50, y=72.00, z=-25.50]
+[05:35:41] [Server thread/INFO]: Named entity class_1604['Gaston Paas the Pillager'/161248, l='ServerLevel[world]', x=1962.39, y=146.00, z=79.80] died: Gaston Paas the Pillager was doomed to fall by Mojarra_Liciada
+[05:35:55] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/161900, l='ServerLevel[world]', x=2038.50, y=77.00, z=-40.50]
+[05:36:46] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to El_Combu]
+[05:37:09] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[05:37:31] [Server thread/INFO]: Mojarra_Liciada lost connection: Disconnected
+[05:37:31] [Server thread/INFO]: Mojarra_Liciada left the game
+[05:38:49] [Server thread/INFO]: El_Combu lost connection: Disconnected
+[05:38:49] [Server thread/INFO]: El_Combu left the game
+[05:38:56] [Server thread/INFO]: Stopping the server
+[05:38:56] [Server thread/INFO]: Async Locator -> Shutting down locating executor service
+[05:38:56] [Server thread/INFO]: Stopping server
+[05:38:56] [Server thread/INFO]: Saving players
+[05:38:56] [Server thread/INFO]: Saving worlds
+[05:38:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:38:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:38:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:insufferable_crypt
+[05:38:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:ramparts
+[05:38:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:38:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:prison
+[05:38:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:promenade
+[05:38:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:black_bridge
+[05:38:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[05:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (servemap): All chunks are saved
+[05:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (insufferable_crypt): All chunks are saved
+[05:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (ramparts): All chunks are saved
+[05:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (prison): All chunks are saved
+[05:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (promenade): All chunks are saved
+[05:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (black_bridge): All chunks are saved
+[05:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[05:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:38:57] [pool-2-thread-1/INFO]: Unloading server config for easyanvils
+[05:38:57] [pool-2-thread-1/INFO]: Unloading server config for easymagic
+[05:38:57] [pool-2-thread-1/INFO]: Unloading server config for illagerinvasion
+[05:38:57] [pool-2-thread-1/INFO]: Unloading server config for puzzlesapi

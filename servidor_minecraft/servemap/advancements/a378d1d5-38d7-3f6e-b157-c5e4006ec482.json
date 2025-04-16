@@ -6953,6 +6953,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-04-16 05:16:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-04-16 01:34:03 +0000"
@@ -7199,6 +7205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-16 05:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-04-16 03:21:39 +0000"
@@ -7265,6 +7277,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-04-16 05:16:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-04-16 04:54:28 +0000"
@@ -7304,6 +7322,12 @@
   "justhammers:recipes/tools/reinforced_impact_core": {
     "criteria": {
       "has_the_recipe": "2025-04-16 02:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-04-16 05:28:44 +0000"
     },
     "done": true
   },
@@ -7358,6 +7382,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-04-16 04:12:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-04-16 05:38:00 +0000"
     },
     "done": true
   },
@@ -7418,6 +7448,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-04-16 04:18:27 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-16 05:26:00 +0000"
     },
     "done": true
   },
