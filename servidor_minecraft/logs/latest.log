@@ -3892,3 +3892,112 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [05:08:29] [Server thread/INFO]: Named entity class_1604['Urvasi Ackmann the Pillager'/140205, l='ServerLevel[world]', x=1939.70, y=144.00, z=81.70] died: Urvasi Ackmann the Pillager was slain by El_Combu using [LA MONDA]
 [05:08:31] [Server thread/INFO]: Named entity class_1604['Patric Frazzini the Pillager'/140731, l='ServerLevel[world]', x=1930.70, y=143.00, z=78.70] died: Patric Frazzini the Pillager was slain by KhalYork27
 [05:08:31] [Server thread/INFO]: Named entity class_1604['Falica Quattrucci the Pillager'/140771, l='ServerLevel[world]', x=1938.70, y=143.00, z=77.30] died: Falica Quattrucci the Pillager was slain by El_Combu using [LA MONDA]
+[05:09:17] [Server thread/INFO]: Named entity class_1604['Traci Goularte the Pillager'/141055, l='ServerLevel[world]', x=1937.30, y=154.00, z=84.70] died: Traci Goularte the Pillager was slain by El_Combu using [LA MONDA]
+[05:09:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7909ms or 158 ticks behind
+[05:09:25] [Server thread/WARN]: Mojarra_Liciada moved too quickly! -2.7855353234508584,5.625600000619926,7.858502888718036
+[05:09:25] [Server thread/WARN]: KhalYork27 moved too quickly! 9.92690782220825,0.0,-1.3944333197957803
+[05:09:29] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] in ServerLevel[world] around class_2338{x=1936, y=130, z=80} within 50 chunks
+[05:09:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:09:32] [Server thread/INFO]: asdasd<--[HERE]
+[05:09:36] [asynclocator-1-thread-1/INFO]: Async Locator -> No TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] found (took 6,310ms)
+[05:09:36] [Server thread/INFO]: Async Locator -> No location found - invalidating map stack
+[05:09:39] [Server thread/INFO]: Named entity class_1604['Baptiste Rad the Pillager'/140962, l='ServerLevel[world]', x=1939.07, y=79.00, z=102.35] died: Baptiste Rad the Pillager was doomed to fall by El_Combu using [LA MONDA]
+[05:09:49] [Server thread/INFO]: Named entity class_1604['Ignaas Buono the Pillager'/141402, l='ServerLevel[world]', x=1927.30, y=154.00, z=78.98] died: Ignaas Buono the Pillager was slain by El_Combu using [LA MONDA]
+[05:09:52] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/141577, l='ServerLevel[world]', x=2041.50, y=75.00, z=-12.50]
+[05:10:00] [Server thread/INFO]: Named entity class_1604['Odella Ossi the Pillager'/141151, l='ServerLevel[world]', x=1944.70, y=153.00, z=76.30] died: Odella Ossi the Pillager was slain by El_Combu using [LA MONDA]
+[05:10:40] [Server thread/INFO]: Named entity class_1604['Ubrig Oxenrider the Pillager'/141736, l='ServerLevel[world]', x=1935.30, y=161.00, z=74.83] died: Ubrig Oxenrider the Pillager went off with a bang
+[05:10:45] [Server thread/INFO]: Named entity class_1604['Stockyrd Burchill the Pillager'/141885, l='ServerLevel[world]', x=1932.30, y=161.00, z=74.30] died: Stockyrd Burchill the Pillager was slain by El_Combu using [LA MONDA]
+[05:10:47] [Server thread/INFO]: KhalYork27 has made the advancement [Ol' Betsy]
+[05:10:49] [Server thread/INFO]: Named entity class_1604['Myranda Thibadeau the Pillager'/142044, l='ServerLevel[world]', x=1936.17, y=161.00, z=75.30] died: Myranda Thibadeau the Pillager was slain by El_Combu using [LA MONDA]
+[05:10:54] [Server thread/INFO]: Named entity class_1604['Tawnie Chupp the Pillager'/141758, l='ServerLevel[world]', x=1944.70, y=161.00, z=80.70] died: Tawnie Chupp the Pillager was slain by El_Combu using [LA MONDA]
+[05:11:06] [Server thread/INFO]: Named entity class_1604['Phylliss Scheidecker the Pillager'/141368, l='ServerLevel[world]', x=1932.30, y=162.00, z=74.23] died: Phylliss Scheidecker the Pillager was slain by El_Combu using [LA MONDA]
+[05:11:07] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell paladins:holy_shock Entity not found: 141368
+[05:11:08] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[05:11:10] [Server thread/INFO]: Named entity class_1604['Saif Rynn the Pillager'/142219, l='ServerLevel[world]', x=1943.70, y=161.00, z=77.20] died: Saif Rynn the Pillager was slain by El_Combu using [LA MONDA]
+[05:11:19] [Server thread/INFO]: KhalYork27 has made the advancement [Take Aim]
+[05:11:20] [Server thread/INFO]: Named entity class_1604['Deana Popa the Pillager'/142482, l='ServerLevel[world]', x=1944.15, y=161.00, z=93.70] died: Deana Popa the Pillager was slain by El_Combu using [LA MONDA]
+[05:11:51] [Server thread/INFO]: Named entity class_1604['Lolicia Moore the Pillager'/142599, l='ServerLevel[world]', x=1933.78, y=165.00, z=69.24] died: Lolicia Moore the Pillager was slain by MrOmar08
+[05:12:00] [Server thread/INFO]: Named entity class_1604['Yoel Daigneau the Pillager'/142841, l='ServerLevel[world]', x=1933.14, y=161.00, z=75.83] died: Yoel Daigneau the Pillager was slain by El_Combu using [LA MONDA]
+[05:12:18] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] in ServerLevel[world] around class_2338{x=1928, y=171, z=73} within 50 chunks
+[05:12:23] [asynclocator-1-thread-1/INFO]: Async Locator -> No TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] found (took 4,756ms)
+[05:12:23] [Server thread/INFO]: Async Locator -> No location found - invalidating map stack
+[05:12:31] [asynclocator-1-thread-1/INFO]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] in ServerLevel[world] around class_2338{x=1928, y=171, z=73} within 50 chunks
+[05:12:36] [asynclocator-1-thread-1/INFO]: Async Locator -> No TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/foundry] found (took 4,820ms)
+[05:12:36] [Server thread/INFO]: Async Locator -> No location found - invalidating map stack
+[05:12:54] [Server thread/INFO]: KhalYork27 was slain by Skeleton
+[05:13:10] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[05:13:11] [Server thread/INFO]: MrOmar08 went off with a bang
+[05:13:15] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1935, 179, 75, minecraft:overworld
+[05:13:20] [Server thread/INFO]: Named entity class_1604['Wanda Quirino the Pillager'/143550, l='ServerLevel[world]', x=1938.99, y=179.00, z=86.97] died: Wanda Quirino the Pillager was slain by KhalYork27
+[05:13:23] [Server thread/INFO]: Named entity class_1604['Diona Morphis the Pillager'/142866, l='ServerLevel[world]', x=1946.01, y=178.50, z=84.90] died: Diona Morphis the Pillager was slain by KhalYork27
+[05:13:24] [Server thread/INFO]: Named entity class_1604['Jeleen Alcantar the Pillager'/143365, l='ServerLevel[world]', x=1947.70, y=179.00, z=88.70] died: Jeleen Alcantar the Pillager was slain by KhalYork27
+[05:13:31] [Server thread/INFO]: [MrOmar08: Teleported MrOmar08 to El_Combu]
+[05:13:34] [Server thread/INFO]: MrOmar08 claimed a grave belonging to MrOmar08 at 1945, 179, 89, minecraft:overworld
+[05:13:38] [Server thread/INFO]: KhalYork27 was slain by Skeleton
+[05:13:45] [Server thread/INFO]: [El_Combu: Teleported Mojarra_Liciada to El_Combu]
+[05:13:47] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[05:13:50] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1933, 179, 88, minecraft:overworld
+[05:14:26] [Server thread/INFO]: Named entity class_1604['Ilynie Benz the Pillager'/145251, l='ServerLevel[world]', x=1951.70, y=179.79, z=69.30] died: Ilynie Benz the Pillager was slain by Mojarra_Liciada
+[05:14:31] [Server thread/INFO]: Mojarra_Liciada went off with a bang
+[05:14:36] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[05:14:37] [Server thread/INFO]: Named entity class_1604['Ciar Bornmann the Pillager'/145172, l='ServerLevel[world]', x=1947.70, y=180.50, z=79.20] died: Ciar Bornmann the Pillager was slain by El_Combu using [LA MONDA]
+[05:14:38] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1948, 179, 75, minecraft:overworld
+[05:15:08] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/146168, l='ServerLevel[world]', x=2042.50, y=75.00, z=-14.50]
+[05:15:27] [Server thread/INFO]: KhalYork27 has made the advancement [Penteconter]
+[05:15:45] [Server thread/INFO]: Named entity class_1604['Chevonne Mattei the Pillager'/146628, l='ServerLevel[world]', x=1935.30, y=189.00, z=72.30] died: Chevonne Mattei the Pillager was slain by El_Combu using [LA MONDA]
+[05:15:50] [Server thread/INFO]: Named entity class_1604['Yeardley Endresen the Pillager'/145781, l='ServerLevel[world]', x=1938.30, y=189.00, z=90.70] died: Yeardley Endresen the Pillager was slain by Mojarra_Liciada
+[05:15:56] [Server thread/INFO]: KhalYork27 went off with a bang
+[05:15:59] [Server thread/INFO]: Named entity class_1604['Madlin Van Dyk the Pillager'/146458, l='ServerLevel[world]', x=1927.30, y=189.00, z=71.73] died: Madlin Van Dyk the Pillager was slain by El_Combu using [LA MONDA]
+[05:16:16] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to MrOmar08]
+[05:16:37] [Server thread/INFO]: Named entity class_1604['Achmed Broadbent the Pillager'/146682, l='ServerLevel[world]', x=1936.40, y=197.00, z=78.70] died: Achmed Broadbent the Pillager went off with a bang
+[05:16:37] [Server thread/INFO]: Named entity class_1604['Kalal Niehaus the Pillager'/146954, l='ServerLevel[world]', x=1935.30, y=197.00, z=79.70] died: Kalal Niehaus the Pillager was slain by El_Combu using [LA MONDA]
+[05:16:39] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1946, 181, 78, minecraft:overworld
+[05:16:40] [Server thread/INFO]: Named entity class_1604['Maite Belew the Pillager'/146251, l='ServerLevel[world]', x=1939.70, y=197.96, z=80.70] died: Maite Belew the Pillager was slain by Mojarra_Liciada
+[05:16:42] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell paladins:holy_shock Entity not found: 146251
+[05:16:42] [Server thread/INFO]: Mojarra_Liciada went off with a bang
+[05:16:42] [Netty Epoll Server IO #6/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05:16:42] [Netty Epoll Server IO #6/ERROR]: Combo count: 12 is dual wielding: false
+[05:16:42] [Netty Epoll Server IO #6/ERROR]: Main-hand stack: 0 air
+[05:16:42] [Netty Epoll Server IO #6/ERROR]: Off-hand stack: 0 air
+[05:16:42] [Netty Epoll Server IO #6/ERROR]: Selected slot server: 0 | client: 0
+[05:16:45] [Server thread/INFO]: Named entity class_1604['Calixto Girty the Pillager'/147131, l='ServerLevel[world]', x=1939.59, y=197.00, z=80.70] died: Calixto Girty the Pillager went off with a bang
+[05:16:48] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[05:16:50] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1938, 197, 77, minecraft:overworld
+[05:17:02] [Server thread/INFO]: Mojarra_Liciada has made the advancement [Penteconter]
+[05:17:13] [Server thread/INFO]: Named entity class_1604['Galyne Giuffrida the Pillager'/147690, l='ServerLevel[world]', x=1939.89, y=201.00, z=75.08] died: Galyne Giuffrida the Pillager was slain by El_Combu using [LA MONDA]
+[05:17:17] [Server thread/INFO]: Named entity class_1604['Candice Carson the Pillager'/147903, l='ServerLevel[world]', x=1944.30, y=197.00, z=79.67] died: Candice Carson the Pillager was slain by El_Combu using [LA MONDA]
+[05:17:57] [Server thread/INFO]: Named entity class_1604['Dorolice Chatel the Pillager'/147982, l='ServerLevel[world]', x=1940.70, y=207.00, z=83.49] died: Dorolice Chatel the Pillager was slain by Mojarra_Liciada
+[05:17:57] [Server thread/INFO]: Named entity class_1604['Arslan Beutler the Pillager'/146466, l='ServerLevel[world]', x=1939.70, y=207.00, z=75.30] died: Arslan Beutler the Pillager was slain by El_Combu using [LA MONDA]
+[05:18:02] [Server thread/INFO]: Named entity class_1604['Manon Berend the Pillager'/147605, l='ServerLevel[world]', x=1940.15, y=208.50, z=69.30] died: Manon Berend the Pillager was slain by Skeleton
+[05:18:03] [Server thread/INFO]: Named entity class_1604['Bernadine Badura the Pillager'/148437, l='ServerLevel[world]', x=1936.50, y=207.00, z=76.66] died: Bernadine Badura the Pillager went off with a bang
+[05:18:03] [Server thread/INFO]: Named entity class_1604['Dagnana Furner the Pillager'/147238, l='ServerLevel[world]', x=1941.97, y=208.50, z=69.30] died: Dagnana Furner the Pillager was slain by Skeleton
+[05:18:07] [Server thread/INFO]: Named entity class_1604['Gaiea Hylan the Pillager'/147959, l='ServerLevel[world]', x=1939.49, y=207.00, z=68.83] died: Gaiea Hylan the Pillager was slain by Skeleton
+[05:18:11] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell paladins:holy_beam Entity not found: 147163
+[05:18:11] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell paladins:holy_beam Entity not found: 147163
+[05:18:20] [Server thread/INFO]: KhalYork27 went off with a bang
+[05:18:20] [Server thread/INFO]: Named entity class_1604['Yahir Belden the Pillager'/148794, l='ServerLevel[world]', x=1935.30, y=207.00, z=74.30] died: Yahir Belden the Pillager went off with a bang
+[05:18:27] [Server thread/INFO]: Named entity class_1604['Jojo Aikman the Pillager'/148691, l='ServerLevel[world]', x=1939.68, y=207.00, z=76.01] died: Jojo Aikman the Pillager was slain by El_Combu using [LA MONDA]
+[05:18:29] [Server thread/INFO]: Named entity class_1604['Daeg Carreras the Pillager'/148388, l='ServerLevel[world]', x=1935.30, y=207.00, z=77.91] died: Daeg Carreras the Pillager was slain by Mojarra_Liciada
+[05:18:30] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell paladins:holy_beam Entity not found: 148388
+[05:18:31] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to MrOmar08]
+[05:18:33] [Server thread/INFO]: Mojarra_Liciada was slain by Skeleton
+[05:18:34] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1938, 207, 88, minecraft:overworld
+[05:18:38] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[05:18:41] [Server thread/INFO]: Mojarra_Liciada claimed a grave belonging to Mojarra_Liciada at 1940, 208, 72, minecraft:overworld
+[05:18:42] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1936, y=208, z=68} as the loot table 'dungeons_arise:chests/desert_city_big' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[05:18:46] [Server thread/INFO]: Named entity class_1604['Wilette Waddoups the Pillager'/149536, l='ServerLevel[world]', x=1953.55, y=126.00, z=72.41] died: Wilette Waddoups the Pillager fell from a high place
+[05:18:52] [Server thread/INFO]: KhalYork27 was slain by Skeleton
+[05:18:53] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1948, y=208, z=76} as the loot table 'dungeons_arise:chests/desert_city_big' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[05:18:53] [Server thread/INFO]: Named entity class_1604['Dorya Evitt the Pillager'/148072, l='ServerLevel[world]', x=1933.30, y=209.00, z=74.30] died: Dorya Evitt the Pillager was slain by MrOmar08
+[05:18:55] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1936, y=208, z=68} as the loot table 'dungeons_arise:chests/desert_city_big' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[05:19:02] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[05:19:02] [Server thread/INFO]: KhalYork27 went off with a bang
+[05:19:03] [Server thread/INFO]: Named entity class_1604['Masumi Macera the Pillager'/149586, l='ServerLevel[world]', x=1935.90, y=209.00, z=86.29] died: Masumi Macera the Pillager was slain by El_Combu using [LA MONDA]
+[05:19:04] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1934, y=209, z=89} as the loot table 'dungeons_arise:chests/desert_city_medium' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[05:19:06] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1934, y=209, z=89} as the loot table 'dungeons_arise:chests/desert_city_medium' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[05:19:10] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to MrOmar08]
+[05:19:12] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 1928, 209, 74, minecraft:overworld
+[05:19:16] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1948, y=208, z=76} as the loot table 'dungeons_arise:chests/desert_city_big' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[05:19:19] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1936, y=208, z=68} as the loot table 'dungeons_arise:chests/desert_city_big' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[05:19:46] [Server thread/INFO]: KhalYork27 was blown up by Badlands Creeper
+[05:19:48] [Server thread/INFO]: Named entity class_1604['Vitoria Ghent the Pillager'/150298, l='ServerLevel[world]', x=1954.90, y=116.00, z=46.89] died: Vitoria Ghent the Pillager fell from a high place
