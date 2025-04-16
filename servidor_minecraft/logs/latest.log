@@ -2518,3 +2518,43 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [02:32:46] [pool-9-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=357, y=83, z=-517}
 [02:35:36] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 151.500000, 68.500000, 367.500000]
 [02:35:39] [Server thread/INFO]: [El_Combu: Teleported El_Combu to Mojarra_Liciada]
+[02:36:50] [Server thread/INFO]: [Mojarra_Liciada: Teleported Mojarra_Liciada to MrOmar08]
+[02:36:52] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[02:38:37] [Server thread/INFO]: [El_Combu: Teleported 343 entities to MrOmar08]
+[02:39:26] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 151.500000, 68.500000, 367.500000]
+[02:39:43] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to Mojarra_Liciada]
+[02:39:52] [Server thread/INFO]: [El_Combu: Teleported El_Combu to Mojarra_Liciada]
+[02:39:56] [Server thread/INFO]: [El_Combu: Teleported El_Combu to MrOmar08]
+[02:40:10] [Server thread/INFO]: MrOmar08 has made the advancement [Spooky Scary Skeleton]
+[02:40:34] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 151.500000, 68.500000, 367.500000]
+[02:41:29] [Server thread/INFO]: Anthony[/127.151.224.195:41633] logged in with entity id 46975 at (126.70423847809586, 70.0, 549.3647075933632)
+[02:41:29] [Server thread/INFO]: Sending server config values to client
+[02:41:29] [Server thread/INFO]: Syncing config to Anthony (115eb0a2-5f3b-3679-a3cc-1b26d9ccb897)
+[02:41:29] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:41:29] [Server thread/INFO]: Anthony joined the game
+[02:41:29] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[02:41:29] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:41:29] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Anthony. Claiming: GRAVE / Robbing: INVENTORY
+[02:41:29] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:41:29] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:41:29] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:41:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:41:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:41:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:41:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:41:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:41:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:41:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:41:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:41:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:41:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:41:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:41:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:41:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:41:29] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/cautious-engine/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:41:50] [Server thread/INFO]: [El_Combu: Teleported El_Combu to MrOmar08]
+[02:42:36] [Server thread/INFO]: [El_Combu: Teleported El_Combu to Mojarra_Liciada]
+[02:44:36] [Server thread/INFO]: [El_Combu: Teleported El_Combu to MrOmar08]
+[02:44:46] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 151.500000, 68.500000, 367.500000]
+[02:45:44] [Server thread/INFO]: [El_Combu: Teleported El_Combu to Mojarra_Liciada]
+[02:45:54] [Server thread/INFO]: Named entity class_1451['Maurice'/41, l='ServerLevel[world]', x=240.35, y=66.00, z=260.76] died: Maurice was slain by El_Combu using [LA MONDA]
