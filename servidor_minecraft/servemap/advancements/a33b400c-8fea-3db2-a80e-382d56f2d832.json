@@ -5743,6 +5743,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-04-16 04:29:41 +0000",
       "opened_chest": "2025-04-16 03:46:12 +0000"
     },
     "done": false
@@ -5756,6 +5757,12 @@
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-04-16 04:20:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-16 04:29:41 +0000"
     },
     "done": true
   },

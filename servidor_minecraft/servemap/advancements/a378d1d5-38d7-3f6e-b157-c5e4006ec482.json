@@ -6952,6 +6952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-16 04:31:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-04-16 04:18:32 +0000"
@@ -7045,6 +7051,12 @@
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-04-16 04:05:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-16 04:31:34 +0000"
     },
     "done": true
   },
@@ -7168,6 +7180,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-04-16 04:34:34 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/reinforced_impact_core": {
     "criteria": {
       "has_the_recipe": "2025-04-16 02:21:35 +0000"
@@ -7246,6 +7264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-16 04:31:58 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/impact_core": {
     "criteria": {
       "has_the_recipe": "2025-04-16 02:20:41 +0000"
@@ -7273,6 +7297,12 @@
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2025-04-16 04:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-16 04:31:58 +0000"
     },
     "done": true
   },
