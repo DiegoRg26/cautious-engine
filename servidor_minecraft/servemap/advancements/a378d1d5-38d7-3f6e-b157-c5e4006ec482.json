@@ -7012,6 +7012,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-16 02:54:02 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_hammer": {
     "criteria": {
       "has_material": "2025-04-16 02:01:09 +0000"
@@ -7090,9 +7096,21 @@
     },
     "done": true
   },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-04-16 02:54:18 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_hammer": {
     "criteria": {
       "has_material": "2025-04-16 02:17:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/globe": {
+    "criteria": {
+      "has_globe_sepia": "2025-04-16 02:54:03 +0000"
     },
     "done": true
   },
