@@ -4206,5 +4206,11 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_hammer": {
+    "criteria": {
+      "has_material": "2025-04-16 02:03:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

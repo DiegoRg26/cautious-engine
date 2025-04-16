@@ -1979,3 +1979,95 @@ Reason: QLE MARICON
 [01:55:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [01:55:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [01:55:23] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/cautious-engine/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:55:53] [Server thread/INFO]: [El_Combu: Made KhalYork27 a server operator]
+[01:56:05] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[01:57:34] [Server thread/INFO]: [El_Combu: Made DJ_MAKATUNGA a server operator]
+[01:57:38] [Server thread/INFO]: DJ_MAKATUNGA burned to death
+[01:57:58] [Server thread/INFO]: [El_Combu: Made SaitamaSena a server operator]
+[01:59:48] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 159.500000, 66.500000, 304.500000]
+[02:00:06] [Server thread/INFO]: <El_Combu> ./tp 123 456 789
+[02:00:11] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[02:00:14] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 36.500000, 54.500000, 44.500000]
+[02:00:39] [Server thread/INFO]: [DJ_MAKATUNGA: Teleported DJ_MAKATUNGA to 481.500000, -52.000000, 306.500000]
+[02:00:43] [Server thread/INFO]: DJ_MAKATUNGA claimed a grave belonging to DJ_MAKATUNGA at 481, -52, 306, minecraft:overworld
+[02:01:33] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 159.500000, 66.500000, 304.500000]
+[02:01:42] [Server thread/INFO]: Anthony[/127.151.224.195:38241] logged in with entity id 20022 at (1040.3607541001627, 14.0, 128.38164750719872)
+[02:01:42] [Server thread/INFO]: Sending server config values to client
+[02:01:42] [Server thread/INFO]: Syncing config to Anthony (115eb0a2-5f3b-3679-a3cc-1b26d9ccb897)
+[02:01:42] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:01:42] [Server thread/INFO]: Anthony joined the game
+[02:01:42] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[02:01:43] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Anthony. Claiming: GRAVE / Robbing: INVENTORY
+[02:01:43] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:01:43] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:01:43] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:01:43] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:01:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:01:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:01:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:01:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:01:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:01:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:01:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:01:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:01:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:01:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:01:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:01:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:01:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:01:43] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/cautious-engine/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:02:02] [Server thread/INFO]: [El_Combu: Teleported El_Combu to Anthony]
+[02:02:08] [Server thread/INFO]: [El_Combu: Made Anthony a server operator]
+[02:02:11] [Server thread/INFO]: [DJ_MAKATUNGA: Teleported DJ_MAKATUNGA to El_Combu]
+[02:02:12] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 159.500000, 66.500000, 304.500000]
+[02:03:03] [Server thread/INFO]: [Anthony: Teleported Anthony to El_Combu]
+[02:03:04] [Server thread/INFO]: Anthony has made the advancement [A Terrible Fortress]
+[02:03:27] [Server thread/INFO]: [El_Combu: Teleported El_Combu to Anthony]
+[02:04:39] [Server thread/INFO]: [Anthony: Teleported Anthony to El_Combu]
+[02:05:00] [Server thread/INFO]: Anthony was slain by ℸ ̣ ╎ℸ ̣ ⚍ᓭ ℸ ̣ 𝙹⊣∷⚍ꖎꖎ𝙹ᓵ⍑
+[02:05:48] [Server thread/INFO]: [Anthony: Teleported Anthony to 329.500000, 70.500000, 81.500000]
+[02:05:51] [Server thread/INFO]: Anthony claimed a grave belonging to Anthony at 329, 70, 80, minecraft:the_nether
+[02:05:56] [Server thread/INFO]: [Anthony: Teleported Anthony to El_Combu]
