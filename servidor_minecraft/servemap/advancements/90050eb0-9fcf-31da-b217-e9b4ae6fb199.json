@@ -150,6 +150,7 @@
       "cooked_beef": "2025-04-09 02:57:08 +0000",
       "baked_potato": "2025-04-11 02:42:30 +0000",
       "porkchop": "2025-04-11 03:52:34 +0000",
+      "apple": "2025-04-16 02:24:38 +0000",
       "potato": "2025-04-09 03:02:49 +0000",
       "cooked_cod": "2025-04-12 22:57:52 +0000",
       "bread": "2025-04-09 02:36:12 +0000"
@@ -681,6 +682,7 @@
       "minecraft:evoker": "2025-04-09 04:08:03 +0000",
       "minecraft:witch": "2025-04-09 04:17:36 +0000",
       "minecraft:cave_spider": "2025-04-09 03:11:19 +0000",
+      "minecraft:enderman": "2025-04-16 02:18:41 +0000",
       "minecraft:vex": "2025-04-09 04:08:28 +0000",
       "minecraft:zombie": "2025-04-09 02:40:37 +0000"
     },
@@ -4860,6 +4862,42 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-04-14 04:11:29 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-04-16 02:17:07 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-16 02:17:07 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-04-16 02:21:25 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_hammer": {
+    "criteria": {
+      "has_material": "2025-04-16 02:17:07 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-04-16 02:17:07 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-16 02:17:07 +0000"
     },
     "done": true
   },

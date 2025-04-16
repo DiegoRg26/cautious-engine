@@ -2463,3 +2463,58 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [02:10:37] [Server thread/INFO]: DJ_MAKATUNGA lost connection: Disconnected
 [02:10:37] [Server thread/INFO]: DJ_MAKATUNGA left the game
 [02:13:48] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to MrOmar08]
+[02:16:38] [Server thread/INFO]: [El_Combu: Teleported KhalYork27 to Anthony]
+[02:17:07] [Server thread/INFO]: Mojarra_Liciada[/127.30.9.217:36151] logged in with entity id 30172 at (6.300000011920929, -44.0, -253.30000001192093)
+[02:17:07] [Server thread/INFO]: Sending server config values to client
+[02:17:07] [Server thread/INFO]: Syncing config to Mojarra_Liciada (90050eb0-9fcf-31da-b217-e9b4ae6fb199)
+[02:17:07] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:17:07] [Server thread/INFO]: Mojarra_Liciada joined the game
+[02:17:08] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[02:17:09] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:17:09] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:17:09] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:17:09] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:17:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:17:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:17:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:17:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:17:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:17:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:17:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:17:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:17:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:17:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:17:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:17:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:17:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:17:09] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/cautious-engine/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:17:09] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Mojarra_Liciada. Claiming: GRAVE / Robbing: INVENTORY
+[02:21:19] [Server thread/INFO]: [Anthony: Teleported Anthony to MrOmar08]
+[02:22:13] [Server thread/INFO]: [El_Combu: Teleported El_Combu to Mojarra_Liciada]
+[02:22:46] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 151.500000, 68.500000, 367.500000]
+[02:22:57] [Server thread/INFO]: [Anthony: Teleported Anthony to El_Combu]
+[02:23:04] [Server thread/INFO]: [El_Combu: Teleported El_Combu to Mojarra_Liciada]
+[02:23:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:23:24] [Server thread/INFO]: asd<--[HERE]
+[02:23:59] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[02:24:35] [Server thread/INFO]: [El_Combu: Teleported El_Combu to MrOmar08]
+[02:24:44] [Server thread/INFO]: [El_Combu: Teleported El_Combu to Mojarra_Liciada]
+[02:25:30] [Server thread/INFO]: [Anthony: Teleported Anthony to El_Combu]
+[02:26:14] [Server thread/INFO]: [Anthony: Teleported Anthony to MrOmar08]
+[02:28:19] [Server thread/INFO]: [El_Combu: Made Mojarra_Liciada a server operator]
+[02:29:54] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:fire_breath Entity not found: 37515
+[02:30:15] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[02:30:21] [Server thread/INFO]: Anthony lost connection: Disconnected
+[02:30:21] [Server thread/INFO]: Anthony left the game
+[02:30:47] [Server thread/INFO]: KhalYork27 was blown up by Creeper
+[02:31:00] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[02:31:06] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 212, -45, -280, minecraft:overworld
+[02:31:49] [pool-9-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]] from pos class_2338{x=43, y=73, z=-517}
+[02:31:50] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=43, y=73, z=-517} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[02:31:50] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=43, y=73, z=-517}
+[02:32:15] [Server thread/INFO]: KhalYork27 was blown up by Creeper
+[02:32:27] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[02:32:33] [Server thread/INFO]: KhalYork27 claimed a grave belonging to KhalYork27 at 183, -40, -305, minecraft:overworld
+[02:32:46] [pool-9-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=357, y=83, z=-517}
+[02:35:36] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 151.500000, 68.500000, 367.500000]
+[02:35:39] [Server thread/INFO]: [El_Combu: Teleported El_Combu to Mojarra_Liciada]
