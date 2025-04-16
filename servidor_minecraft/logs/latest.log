@@ -2818,3 +2818,519 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [04:07:33] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 151.500000, 68.500000, 367.500000]
 [04:07:49] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 159.500000, 66.500000, 304.500000]
 [04:07:53] [Server thread/INFO]: [El_Combu: Teleported El_Combu to Mojarra_Liciada]
+[04:08:19] [Server thread/INFO]: [El_Combu: Teleported El_Combu to MrOmar08]
+[04:08:34] [Server thread/INFO]: [El_Combu: Teleported El_Combu to MrOmar08]
+[04:08:56] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/79165, l='ServerLevel[world]', x=563.50, y=77.00, z=-247.50]
+[04:08:58] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/79183, l='ServerLevel[world]', x=671.50, y=77.00, z=-202.50]
+[04:09:20] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/79387, l='ServerLevel[world]', x=669.50, y=77.00, z=-202.50]
+[04:09:22] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/79446, l='ServerLevel[world]', x=653.50, y=75.00, z=-218.50]
+[04:09:26] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/79561, l='ServerLevel[world]', x=667.50, y=78.00, z=-165.50]
+[04:09:34] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/79716, l='ServerLevel[world]', x=628.50, y=81.00, z=-187.50]
+[04:09:44] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/79846, l='ServerLevel[world]', x=575.50, y=75.00, z=-277.50]
+[04:09:46] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/79873, l='ServerLevel[world]', x=602.50, y=81.00, z=-233.50]
+[04:10:01] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/80240, l='ServerLevel[world]', x=512.50, y=74.00, z=-296.50]
+[04:10:21] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/80428, l='ServerLevel[world]', x=639.50, y=80.00, z=-204.50]
+[04:10:42] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/80575, l='ServerLevel[world]', x=567.50, y=78.00, z=-237.50]
+[04:10:44] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/80638, l='ServerLevel[world]', x=564.50, y=77.00, z=-248.50]
+[04:10:53] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/80737, l='ServerLevel[world]', x=552.50, y=71.00, z=-286.50]
+[04:10:57] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/80780, l='ServerLevel[world]', x=569.50, y=78.00, z=-239.50]
+[04:10:59] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/80795, l='ServerLevel[world]', x=474.50, y=75.00, z=-316.50]
+[04:11:12] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/80878, l='ServerLevel[world]', x=640.50, y=75.00, z=-232.50]
+[04:11:14] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/80888, l='ServerLevel[world]', x=670.50, y=77.00, z=-202.50]
+[04:11:20] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/80932, l='ServerLevel[world]', x=569.50, y=78.00, z=-237.50]
+[04:11:21] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/80933, l='ServerLevel[world]', x=588.50, y=80.00, z=-226.50]
+[04:11:25] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/80982, l='ServerLevel[world]', x=557.50, y=77.00, z=-265.50]
+[04:11:25] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/80987, l='ServerLevel[world]', x=652.50, y=75.00, z=-216.50]
+[04:11:28] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81027, l='ServerLevel[world]', x=564.50, y=75.00, z=-278.50]
+[04:11:33] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81053, l='ServerLevel[world]', x=596.50, y=76.00, z=-257.50]
+[04:11:35] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81101, l='ServerLevel[world]', x=525.50, y=81.00, z=-261.50]
+[04:11:43] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81165, l='ServerLevel[world]', x=670.50, y=77.00, z=-200.50]
+[04:11:44] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81176, l='ServerLevel[world]', x=549.50, y=80.00, z=-262.50]
+[04:11:48] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81216, l='ServerLevel[world]', x=582.50, y=72.00, z=-266.50]
+[04:11:49] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81223, l='ServerLevel[world]', x=715.50, y=79.00, z=-139.50]
+[04:11:53] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81250, l='ServerLevel[world]', x=566.50, y=75.00, z=-277.50]
+[04:12:06] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81332, l='ServerLevel[world]', x=619.50, y=73.00, z=-256.50]
+[04:12:10] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81374, l='ServerLevel[world]', x=540.50, y=72.00, z=-299.50]
+[04:12:11] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81376, l='ServerLevel[world]', x=715.50, y=70.00, z=-176.50]
+[04:12:12] [Server thread/INFO]: El_Combu has made the advancement [Disme A Dozen]
+[04:12:19] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81486, l='ServerLevel[world]', x=587.50, y=80.00, z=-225.50]
+[04:12:19] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81487, l='ServerLevel[world]', x=577.50, y=75.00, z=-278.50]
+[04:12:24] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81506, l='ServerLevel[world]', x=682.50, y=77.00, z=-191.50]
+[04:12:24] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81507, l='ServerLevel[world]', x=553.50, y=71.00, z=-287.50]
+[04:12:40] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/81726, l='ServerLevel[world]', x=577.50, y=75.00, z=-277.50]
+[04:12:54] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/82017, l='ServerLevel[world]', x=568.50, y=78.00, z=-237.50]
+[04:12:59] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/82068, l='ServerLevel[world]', x=552.50, y=71.00, z=-288.50]
+[04:13:05] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/82189, l='ServerLevel[world]', x=542.50, y=77.00, z=-275.50]
+[04:15:08] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/83575, l='ServerLevel[world]', x=680.50, y=77.00, z=-189.50]
+[04:16:06] [pool-9-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands]] from pos class_2338{x=987, y=79, z=-267}
+[04:16:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3664ms or 73 ticks behind
+[04:16:10] [Server thread/WARN]: El_Combu moved too quickly! 4.143570218383843,-0.5800000131130219,-9.166470743593635
+[04:17:03] [pool-9-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos class_2338{x=1317, y=80, z=-229}
+[04:17:03] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=1317, y=80, z=-229} but found not block entity block Block{minecraft:stripped_spruce_log}[axis=y] at location
+[04:17:03] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stripped_spruce_log}[axis=y] but failed at location class_2338{x=1317, y=80, z=-229}
+[04:18:51] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/87133, l='ServerLevel[world]', x=1282.50, y=80.00, z=-226.50]
+[04:19:13] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/87398, l='ServerLevel[world]', x=1256.50, y=78.00, z=-297.50]
+[04:19:13] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/87402, l='ServerLevel[world]', x=1292.50, y=81.00, z=-277.50]
+[04:19:18] [Server thread/INFO]: [El_Combu: Teleported El_Combu to MrOmar08]
+[04:19:43] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[04:19:55] [Server thread/INFO]: MrOmar08 has made the advancement [This Must be a Sign!]
+[04:19:57] [Worker-Main-99/ERROR]: Hanging entity at invalid position: class_2338{x=-249, y=27, z=-561}
+[04:19:57] [Worker-Main-99/ERROR]: Hanging entity at invalid position: class_2338{x=-250, y=27, z=-586}
+[04:20:00] [Worker-Main-101/ERROR]: Hanging entity at invalid position: class_2338{x=-257, y=27, z=-591}
+[04:20:00] [Worker-Main-101/ERROR]: Hanging entity at invalid position: class_2338{x=-253, y=27, z=-591}
+[04:20:05] [Worker-Main-29/ERROR]: Hanging entity at invalid position: class_2338{x=-316, y=32, z=-583}
+[04:20:05] [Worker-Main-29/ERROR]: Hanging entity at invalid position: class_2338{x=-316, y=32, z=-586}
+[04:20:05] [Worker-Main-29/ERROR]: Hanging entity at invalid position: class_2338{x=-315, y=32, z=-582}
+[04:20:05] [Worker-Main-29/ERROR]: Hanging entity at invalid position: class_2338{x=-315, y=32, z=-587}
+[04:20:05] [Worker-Main-29/ERROR]: Hanging entity at invalid position: class_2338{x=-312, y=32, z=-582}
+[04:20:05] [Worker-Main-29/ERROR]: Hanging entity at invalid position: class_2338{x=-312, y=32, z=-587}
+[04:20:05] [Worker-Main-29/ERROR]: Hanging entity at invalid position: class_2338{x=-4, y=-56, z=103}
+[04:20:11] [Worker-Main-63/ERROR]: Hanging entity at invalid position: class_2338{x=-305, y=29, z=-612}
+[04:20:11] [Worker-Main-63/ERROR]: Hanging entity at invalid position: class_2338{x=-305, y=29, z=-607}
+[04:20:11] [Worker-Main-63/ERROR]: Hanging entity at invalid position: class_2338{x=-303, y=29, z=-612}
+[04:20:11] [Worker-Main-63/ERROR]: Hanging entity at invalid position: class_2338{x=-301, y=29, z=-612}
+[04:20:11] [Worker-Main-63/ERROR]: Hanging entity at invalid position: class_2338{x=-303, y=29, z=-607}
+[04:20:11] [Worker-Main-63/ERROR]: Hanging entity at invalid position: class_2338{x=-301, y=29, z=-607}
+[04:20:45] [Worker-Main-100/ERROR]: Hanging entity at invalid position: class_2338{x=-315, y=114, z=371}
+[04:21:44] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-257, y=27, z=-591}
+[04:21:44] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-253, y=27, z=-591}
+[04:21:44] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-250, y=27, z=-586}
+[04:23:17] [Worker-Main-65/ERROR]: Hanging entity at invalid position: class_2338{x=12, y=-59, z=185}
+[04:23:17] [Worker-Main-65/ERROR]: Hanging entity at invalid position: class_2338{x=2, y=-56, z=104}
+[04:23:17] [Worker-Main-65/ERROR]: Hanging entity at invalid position: class_2338{x=2, y=-57, z=104}
+[04:23:17] [Worker-Main-65/ERROR]: Hanging entity at invalid position: class_2338{x=1, y=-57, z=105}
+[04:23:17] [Worker-Main-65/ERROR]: Hanging entity at invalid position: class_2338{x=-191, y=28, z=-589}
+[04:23:17] [Worker-Main-65/ERROR]: Hanging entity at invalid position: class_2338{x=-191, y=28, z=-587}
+[04:23:17] [Worker-Main-64/ERROR]: Hanging entity at invalid position: class_2338{x=-498, y=-58, z=-555}
+[04:23:17] [Worker-Main-64/ERROR]: Hanging entity at invalid position: class_2338{x=-499, y=-58, z=-554}
+[04:23:17] [Worker-Main-64/ERROR]: Hanging entity at invalid position: class_2338{x=-500, y=-58, z=-554}
+[04:23:17] [Worker-Main-64/ERROR]: Hanging entity at invalid position: class_2338{x=-501, y=-58, z=-554}
+[04:23:17] [Worker-Main-64/ERROR]: Hanging entity at invalid position: class_2338{x=-309, y=29, z=-612}
+[04:23:17] [Worker-Main-64/ERROR]: Hanging entity at invalid position: class_2338{x=-307, y=29, z=-612}
+[04:23:17] [Worker-Main-64/ERROR]: Hanging entity at invalid position: class_2338{x=-307, y=29, z=-607}
+[04:23:17] [Worker-Main-64/ERROR]: Hanging entity at invalid position: class_2338{x=-309, y=29, z=-607}
+[04:23:18] [Worker-Main-65/ERROR]: Hanging entity at invalid position: class_2338{x=-191, y=28, z=-589}
+[04:23:18] [Worker-Main-65/ERROR]: Hanging entity at invalid position: class_2338{x=-191, y=28, z=-587}
+[04:23:18] [Worker-Main-99/ERROR]: Hanging entity at invalid position: class_2338{x=-316, y=32, z=-583}
+[04:23:18] [Worker-Main-99/ERROR]: Hanging entity at invalid position: class_2338{x=-316, y=32, z=-586}
+[04:23:18] [Worker-Main-99/ERROR]: Hanging entity at invalid position: class_2338{x=-315, y=32, z=-582}
+[04:23:18] [Worker-Main-99/ERROR]: Hanging entity at invalid position: class_2338{x=-315, y=32, z=-587}
+[04:23:18] [Worker-Main-99/ERROR]: Hanging entity at invalid position: class_2338{x=-312, y=32, z=-582}
+[04:23:18] [Worker-Main-99/ERROR]: Hanging entity at invalid position: class_2338{x=-312, y=32, z=-587}
+[04:23:19] [Worker-Main-64/ERROR]: Hanging entity at invalid position: class_2338{x=-501, y=-58, z=-561}
+[04:23:19] [Worker-Main-64/ERROR]: Hanging entity at invalid position: class_2338{x=-501, y=-58, z=-560}
+[04:23:19] [Worker-Main-64/ERROR]: Hanging entity at invalid position: class_2338{x=-501, y=-58, z=-558}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-337, y=30, z=-594}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-337, y=29, z=-593}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-338, y=29, z=-593}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-340, y=30, z=-591}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-339, y=29, z=-591}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-339, y=29, z=-592}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-339, y=29, z=-590}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-337, y=29, z=-589}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-338, y=29, z=-589}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-339, y=24, z=-591}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-337, y=30, z=-588}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-336, y=29, z=-593}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-334, y=30, z=-591}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-336, y=29, z=-589}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-335, y=29, z=-590}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-335, y=29, z=-591}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-335, y=29, z=-592}
+[04:23:19] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-335, y=24, z=-591}
+[04:23:19] [Worker-Main-96/WARN]: Tried to access a block entity before it was created. class_2338{x=1293, y=79, z=596}
+[04:23:19] [Worker-Main-96/WARN]: Tried to access a block entity before it was created. class_2338{x=1293, y=79, z=596}
+[04:23:20] [Worker-Main-100/ERROR]: Hanging entity at invalid position: class_2338{x=-307, y=35, z=-536}
+[04:23:20] [Worker-Main-100/ERROR]: Hanging entity at invalid position: class_2338{x=-307, y=35, z=-537}
+[04:23:20] [Worker-Main-100/ERROR]: Hanging entity at invalid position: class_2338{x=-307, y=35, z=-535}
+[04:23:20] [Worker-Main-100/ERROR]: Hanging entity at invalid position: class_2338{x=-303, y=27, z=-539}
+[04:23:20] [Worker-Main-100/ERROR]: Hanging entity at invalid position: class_2338{x=-303, y=27, z=-533}
+[04:23:20] [Worker-Main-100/ERROR]: Hanging entity at invalid position: class_2338{x=-299, y=34, z=-537}
+[04:23:20] [Worker-Main-100/ERROR]: Hanging entity at invalid position: class_2338{x=-299, y=34, z=-536}
+[04:23:20] [Worker-Main-100/ERROR]: Hanging entity at invalid position: class_2338{x=-299, y=34, z=-535}
+[04:23:20] [Worker-Main-100/ERROR]: Hanging entity at invalid position: class_2338{x=-299, y=35, z=-537}
+[04:23:20] [Worker-Main-100/ERROR]: Hanging entity at invalid position: class_2338{x=-299, y=35, z=-536}
+[04:23:20] [Worker-Main-100/ERROR]: Hanging entity at invalid position: class_2338{x=-299, y=35, z=-535}
+[04:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[04:23:21] [Worker-Main-101/ERROR]: Hanging entity at invalid position: class_2338{x=-284, y=26, z=-592}
+[04:23:21] [Worker-Main-101/ERROR]: Hanging entity at invalid position: class_2338{x=-284, y=27, z=-592}
+[04:23:21] [Worker-Main-101/ERROR]: Hanging entity at invalid position: class_2338{x=-275, y=27, z=-591}
+[04:23:21] [Worker-Main-101/ERROR]: Hanging entity at invalid position: class_2338{x=-282, y=35, z=-587}
+[04:23:21] [Worker-Main-101/ERROR]: Hanging entity at invalid position: class_2338{x=-257, y=27, z=-591}
+[04:23:21] [Worker-Main-101/ERROR]: Hanging entity at invalid position: class_2338{x=-253, y=27, z=-591}
+[04:23:21] [Worker-Main-101/ERROR]: Hanging entity at invalid position: class_2338{x=-250, y=27, z=-586}
+[04:23:21] [Worker-Main-31/ERROR]: Hanging entity at invalid position: class_2338{x=-235, y=27, z=-544}
+[04:23:21] [Worker-Main-31/ERROR]: Hanging entity at invalid position: class_2338{x=-234, y=32, z=-539}
+[04:23:30] [Server thread/INFO]: KhalYork27 has made the advancement [This Must be a Sign!]
+[04:23:46] [Server thread/INFO]: [KhalYork27: Teleported KhalYork27 to El_Combu]
+[04:24:03] [Server thread/INFO]: KhalYork27 has made the advancement ['X' Marks the Spot]
+[04:25:56] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-370, y=31, z=-408}
+[04:25:56] [Worker-Main-31/ERROR]: Hanging entity at invalid position: class_2338{x=-201, y=28, z=-365}
+[04:25:59] [Worker-Main-29/ERROR]: Hanging entity at invalid position: class_2338{x=-210, y=28, z=-353}
+[04:25:59] [Worker-Main-29/ERROR]: Hanging entity at invalid position: class_2338{x=-209, y=31, z=-354}
+[04:25:59] [Worker-Main-29/ERROR]: Hanging entity at invalid position: class_2338{x=-210, y=31, z=-355}
+[04:25:59] [Worker-Main-29/ERROR]: Hanging entity at invalid position: class_2338{x=-213, y=50, z=-356}
+[04:25:59] [Worker-Main-29/ERROR]: Hanging entity at invalid position: class_2338{x=-202, y=26, z=-355}
+[04:25:59] [Worker-Main-29/ERROR]: Hanging entity at invalid position: class_2338{x=-207, y=31, z=-355}
+[04:25:59] [Worker-Main-29/ERROR]: Hanging entity at invalid position: class_2338{x=-207, y=37, z=-354}
+[04:25:59] [Worker-Main-65/ERROR]: Hanging entity at invalid position: class_2338{x=-216, y=28, z=-367}
+[04:25:59] [Worker-Main-65/ERROR]: Hanging entity at invalid position: class_2338{x=-210, y=31, z=-363}
+[04:25:59] [Worker-Main-65/ERROR]: Hanging entity at invalid position: class_2338{x=-217, y=50, z=-360}
+[04:25:59] [Worker-Main-65/ERROR]: Hanging entity at invalid position: class_2338{x=-213, y=50, z=-364}
+[04:25:59] [Worker-Main-65/ERROR]: Hanging entity at invalid position: class_2338{x=-209, y=50, z=-360}
+[04:25:59] [Worker-Main-65/ERROR]: Hanging entity at invalid position: class_2338{x=-202, y=26, z=-365}
+[04:25:59] [Worker-Main-96/ERROR]: Hanging entity at invalid position: class_2338{x=-351, y=30, z=-358}
+[04:26:00] [Worker-Main-101/ERROR]: Hanging entity at invalid position: class_2338{x=-376, y=31, z=-420}
+[04:26:00] [Worker-Main-101/ERROR]: Hanging entity at invalid position: class_2338{x=-376, y=31, z=-419}
+[04:26:11] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[04:26:13] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[04:26:15] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[04:26:15] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[04:26:18] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[04:26:18] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[04:26:30] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[04:26:31] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more

@@ -1853,14 +1853,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-16 03:43:42 +0000",
+      "minecraft:birch_forest": "2025-04-16 04:11:47 +0000",
       "minecraft:windswept_hills": "2025-04-09 05:18:09 +0000",
       "minecraft:beach": "2025-04-13 04:41:16 +0000",
       "minecraft:river": "2025-04-09 02:47:23 +0000",
       "minecraft:snowy_plains": "2025-04-13 05:10:19 +0000",
       "minecraft:snowy_taiga": "2025-04-12 18:57:31 +0000",
+      "minecraft:forest": "2025-04-16 04:14:56 +0000",
       "minecraft:lush_caves": "2025-04-09 03:26:42 +0000",
       "minecraft:deep_cold_ocean": "2025-04-12 22:16:21 +0000",
       "minecraft:windswept_forest": "2025-04-13 04:40:50 +0000",
+      "minecraft:jungle": "2025-04-16 04:18:14 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-13 04:41:49 +0000",
       "minecraft:savanna": "2025-04-13 18:53:29 +0000"
     },
@@ -3059,6 +3062,7 @@
       "cabbage": "2025-04-16 04:04:58 +0000",
       "glow_berries": "2025-04-09 04:20:03 +0000",
       "sweet_berries": "2025-04-10 02:50:38 +0000",
+      "rice": "2025-04-16 04:06:31 +0000",
       "sugar_cane": "2025-04-09 06:19:41 +0000",
       "potato": "2025-04-09 05:08:17 +0000",
       "wheat": "2025-04-12 23:42:28 +0000"
@@ -6924,9 +6928,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-16 04:18:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-04-16 03:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-04-16 04:18:39 +0000"
     },
     "done": true
   },
@@ -6936,15 +6952,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-16 04:18:32 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/destructor_core": {
     "criteria": {
       "has_the_recipe": "2025-04-16 02:21:42 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-04-16 04:18:21 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/netherite_hammer": {
     "criteria": {
       "has_material": "2025-04-16 02:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-16 04:18:32 +0000"
     },
     "done": true
   },
@@ -6966,6 +7000,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-04-16 04:06:56 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-04-16 01:54:55 +0000"
@@ -6978,6 +7018,30 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-04-16 04:06:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-16 04:18:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-04-16 04:18:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-04-16 04:22:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-04-16 04:05:02 +0000"
@@ -6987,6 +7051,12 @@
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
       "has_pink_wool": "2025-04-16 03:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-16 04:18:21 +0000"
     },
     "done": true
   },
@@ -7014,9 +7084,27 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-04-16 04:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-16 04:18:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-04-16 03:21:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-04-16 04:06:31 +0000"
     },
     "done": true
   },
@@ -7056,6 +7144,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-04-16 04:22:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-04-16 02:21:08 +0000"
@@ -7080,9 +7174,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-16 04:18:21 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_hammer": {
     "criteria": {
       "has_material": "2025-04-16 01:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-16 04:18:39 +0000"
     },
     "done": true
   },
@@ -7110,9 +7216,27 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-16 04:12:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/lapis_pile_to_lapis": {
     "criteria": {
       "has_lapis_pile": "2025-04-16 02:04:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-04-16 04:22:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-04-16 04:22:15 +0000"
     },
     "done": true
   },
@@ -7134,6 +7258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-16 04:18:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2025-04-16 03:21:45 +0000"
@@ -7152,6 +7282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-16 04:18:27 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_impact_hammer": {
     "criteria": {
       "has_material": "2025-04-16 01:54:55 +0000"
@@ -7167,6 +7303,12 @@
   "supplementaries:adventure/globe": {
     "criteria": {
       "unlock": "2025-04-16 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-16 04:18:27 +0000"
     },
     "done": true
   },

@@ -5411,5 +5411,11 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2025-04-16 04:25:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
