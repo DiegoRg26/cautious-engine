@@ -1864,3 +1864,57 @@ Reason: QLE MARICON
 [01:24:43] [Server thread/INFO]: SaitamaSena was poked to death by a sweet berry bush
 [01:25:08] [Server thread/INFO]: SaitamaSena claimed a grave belonging to SaitamaSena at 127, 74, 292, minecraft:overworld
 [01:25:28] [Server thread/INFO]: SaitamaSena has made the advancement [Monster Hunter]
+[01:25:53] [Server thread/INFO]: DJ_MAKATUNGA has made the advancement [Monster Hunter]
+[01:26:12] [Server thread/INFO]: DJ_MAKATUNGA has made the advancement [Cobweb Entanglement]
+[01:26:14] [Server thread/INFO]: SaitamaSena has made the advancement [Cobweb Entanglement]
+[01:28:39] [Server thread/INFO]: Instantiating Mojang DFU
+[01:30:12] [Server thread/INFO]: DJ_MAKATUNGA has made the advancement [Take Aim]
+[01:30:37] [Server thread/INFO]: DJ_MAKATUNGA has made the advancement [Sweet Dreams]
+[01:31:18] [Server thread/INFO]: SaitamaSena was slain by Zombie
+[01:31:45] [Server thread/INFO]: [El_Combu: Teleported El_Combu to DJ_MAKATUNGA]
+[01:31:52] [Server thread/INFO]: SaitamaSena claimed a grave belonging to SaitamaSena at 120, 74, 301, minecraft:overworld
+[01:31:52] [Server thread/INFO]: DJ_MAKATUNGA has made the advancement [Suit Up]
+[01:31:56] [Server thread/INFO]: [El_Combu: Teleported El_Combu to SaitamaSena]
+[01:32:02] [Server thread/INFO]: SaitamaSena has made the advancement [Suit Up]
+[01:32:05] [Server thread/INFO]: SaitamaSena has made the advancement [Source of Evil]
+[01:33:00] [Server thread/INFO]: [El_Combu: Teleported El_Combu to SaitamaSena]
+[01:33:09] [Server thread/INFO]: DJ_MAKATUNGA has made the advancement [Acquire Hardware]
+[01:33:42] [Server thread/INFO]: DJ_MAKATUNGA has made the advancement [Isn't It Iron Pick]
+[01:36:55] [Server thread/INFO]: SaitamaSena has made the advancement [Fishy Business]
+[01:37:45] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 159.500000, 66.500000, 304.500000]
+[01:38:21] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 151.500000, 68.500000, 367.500000]
+[01:38:45] [Server thread/INFO]: [El_Combu: Teleported El_Combu to DJ_MAKATUNGA]
+[01:38:58] [Server thread/INFO]: [El_Combu: Teleported El_Combu to SaitamaSena]
+[01:39:01] [Server thread/INFO]: [El_Combu: Teleported El_Combu to SaitamaSena]
+[01:39:17] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 151.500000, 68.500000, 367.500000]
+[01:41:47] [Server thread/INFO]: SaitamaSena has made the advancement [Sweet Dreams]
+[01:41:50] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 159.500000, 66.500000, 304.500000]
+[01:41:59] [Server thread/INFO]: [El_Combu: Gamerule sendCommandFeedback is now set to: false]
+[01:43:16] [Server thread/INFO]: [El_Combu: Teleported El_Combu to 151.500000, 68.500000, 367.500000]
+[01:44:37] [Server thread/INFO]: KhalYork27[/127.125.128.150:42549] logged in with entity id 12631 at (952.7354027670141, 15.0, 164.67604194322715)
+[01:44:37] [Server thread/INFO]: Sending server config values to client
+[01:44:37] [Server thread/INFO]: Syncing config to KhalYork27 (56aaf9dc-e409-3b28-9484-2673552dd024)
+[01:44:37] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:44:37] [Server thread/INFO]: KhalYork27 joined the game
+[01:44:37] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[01:44:43] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:44:43] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player KhalYork27. Claiming: GRAVE / Robbing: INVENTORY
+[01:44:43] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:44:43] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:44:43] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:44:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:44:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:44:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:44:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:44:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:44:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:44:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:44:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:44:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:44:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:44:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:44:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:44:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:44:43] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/cautious-engine/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:44:43] [Server thread/INFO]: KhalYork27 lost connection: Disconnected
+[01:44:43] [Server thread/INFO]: KhalYork27 left the game
