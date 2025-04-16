@@ -5057,6 +5057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-04-16 04:02:36 +0000"
+    },
+    "done": true
+  },
   "fwaystones:recipes/stone_brick_waystone": {
     "criteria": {
       "has_abyss_watcher": "2025-04-16 02:42:59 +0000"
@@ -5072,6 +5078,12 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-04-16 03:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-16 04:02:22 +0000"
     },
     "done": true
   },
@@ -5348,6 +5360,18 @@
   "justhammers:recipes/tools/iron_destructor_hammer": {
     "criteria": {
       "has_material": "2025-04-16 02:17:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_glowstone": "2025-04-16 04:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-16 04:02:22 +0000"
     },
     "done": true
   },
