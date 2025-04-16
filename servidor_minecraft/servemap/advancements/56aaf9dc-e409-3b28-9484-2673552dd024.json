@@ -3004,7 +3004,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2025-04-12 22:04:06 +0000"
+      "sweet_berries": "2025-04-12 22:04:06 +0000",
+      "tomato": "2025-04-16 03:41:04 +0000",
+      "beetroot": "2025-04-16 03:40:41 +0000"
     },
     "done": false
   },
@@ -4231,6 +4233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-16 03:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-16 02:24:17 +0000"
@@ -4348,6 +4356,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-16 02:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2025-04-16 03:40:41 +0000"
     },
     "done": true
   },

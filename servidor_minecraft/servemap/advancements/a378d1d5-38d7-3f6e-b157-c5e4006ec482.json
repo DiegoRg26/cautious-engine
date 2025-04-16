@@ -1852,6 +1852,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-16 03:43:42 +0000",
       "minecraft:windswept_hills": "2025-04-09 05:18:09 +0000",
       "minecraft:beach": "2025-04-13 04:41:16 +0000",
       "minecraft:river": "2025-04-09 02:47:23 +0000",
@@ -6916,6 +6917,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-04-16 03:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-04-16 03:21:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-04-16 01:34:03 +0000"
@@ -6964,15 +6977,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-04-16 03:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-04-16 01:34:03 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-04-16 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-04-16 03:21:45 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_impact_hammer": {
     "criteria": {
       "has_material": "2025-04-16 01:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-04-16 03:21:39 +0000"
     },
     "done": true
   },
@@ -7036,6 +7073,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_bowl": "2025-04-16 03:45:00 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-04-16 01:55:33 +0000"
@@ -7075,6 +7118,12 @@
   "justhammers:recipes/tools/stone_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-04-16 01:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-04-16 03:21:45 +0000"
     },
     "done": true
   },
