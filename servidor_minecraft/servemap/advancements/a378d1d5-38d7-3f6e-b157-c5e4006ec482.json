@@ -130,6 +130,7 @@
       "minecraft:creeper": "2025-04-10 02:20:10 +0000",
       "minecraft:wither": "2025-04-13 06:27:47 +0000",
       "minecraft:slime": "2025-04-13 21:30:52 +0000",
+      "minecraft:phantom": "2025-05-01 21:47:04 +0000",
       "minecraft:zombified_piglin": "2025-04-13 18:01:51 +0000",
       "minecraft:witch": "2025-04-13 00:18:37 +0000",
       "minecraft:wither_skeleton": "2025-04-10 02:28:47 +0000",
@@ -7602,6 +7603,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-05-01 20:00:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-05-01 21:49:30 +0000"
     },
     "done": true
   },
