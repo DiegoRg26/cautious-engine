@@ -7532,6 +7532,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-01 20:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-05-01 20:00:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-05-01 19:54:56 +0000"
@@ -7544,9 +7556,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-01 20:00:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2025-05-01 19:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-01 20:00:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-01 20:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-01 20:00:59 +0000"
     },
     "done": true
   },
