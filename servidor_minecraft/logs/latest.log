@@ -6802,3 +6802,66 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [21:37:30] [Server thread/INFO]: Named entity class_1604['Lotus Belgum the Pillager'/27371, l='ServerLevel[world]', x=1870.30, y=125.00, z=32.92] died: Lotus Belgum the Pillager went off with a bang
 [21:37:37] [Server thread/INFO]: Named entity class_1604['Topsie Christley the Pillager'/27544, l='ServerLevel[world]', x=1870.30, y=125.00, z=28.30] died: Topsie Christley the Pillager went off with a bang
 [21:37:47] [Server thread/INFO]: Named entity class_1604['Haydin Morrical the Pillager'/27281, l='ServerLevel[world]', x=1875.05, y=122.50, z=30.45] died: Haydin Morrical the Pillager was slain by El_Combu using [LA MONDA]
+[21:37:54] [Server thread/INFO]: [El_Combu: Applied effect Strength to El_Combu]
+[21:41:03] [Server thread/INFO]: Named entity class_1604['Kimberly Carbone the Pillager'/28299, l='ServerLevel[world]', x=1867.70, y=142.00, z=37.35] died: Kimberly Carbone the Pillager was slain by El_Combu
+[21:41:12] [Server thread/INFO]: Named entity class_1604['Finna Carrel the Pillager'/28569, l='ServerLevel[world]', x=1872.70, y=142.00, z=29.60] died: Finna Carrel the Pillager was slain by El_Combu
+[21:41:14] [Server thread/INFO]: Named entity class_1604['Aylin Zaytsev the Pillager'/28429, l='ServerLevel[world]', x=1874.70, y=142.00, z=34.69] died: Aylin Zaytsev the Pillager went off with a bang
+[21:41:21] [Server thread/INFO]: Named entity class_1604['Rai Beydoun the Pillager'/28564, l='ServerLevel[world]', x=1870.07, y=142.00, z=31.70] died: Rai Beydoun the Pillager was slain by El_Combu
+[21:41:38] [Server thread/INFO]: Named entity class_1604['Stefano Yahn the Pillager'/28741, l='ServerLevel[world]', x=1880.20, y=142.00, z=35.70] died: Stefano Yahn the Pillager was slain by El_Combu
+[21:41:58] [Server thread/INFO]: Named entity class_1604['Henri Gittleman the Pillager'/28842, l='ServerLevel[world]', x=1878.30, y=142.00, z=32.30] died: Henri Gittleman the Pillager was slain by El_Combu
+[21:41:59] [Server thread/INFO]: Named entity class_1604['Hosiah Bundrant the Pillager'/28875, l='ServerLevel[world]', x=1873.37, y=142.00, z=32.38] died: Hosiah Bundrant the Pillager was slain by El_Combu
+[21:42:08] [Server thread/INFO]: Named entity class_1604['Saburo Arcangelo the Pillager'/28923, l='ServerLevel[world]', x=1883.23, y=107.00, z=55.74] died: Saburo Arcangelo the Pillager fell from a high place
+[21:42:11] [Server thread/WARN]: El_Combu moved wrongly!
+[21:42:34] [Server thread/INFO]: Named entity class_1604['Trevor Alas the Pillager'/29014, l='ServerLevel[world]', x=1874.63, y=153.50, z=35.89] died: Trevor Alas the Pillager was slain by Skeleton
+[21:43:02] [Server thread/INFO]: Named entity class_1604['Lugh Keilty the Pillager'/28971, l='ServerLevel[world]', x=1882.70, y=160.00, z=28.30] died: Lugh Keilty the Pillager was slain by El_Combu
+[21:43:07] [Server thread/INFO]: Named entity class_1604['Icess Christin the Pillager'/29141, l='ServerLevel[world]', x=1876.82, y=160.00, z=37.08] died: Icess Christin the Pillager was slain by El_Combu
+[21:43:15] [Server thread/INFO]: Named entity class_1604['Jamaari Barbush the Pillager'/29275, l='ServerLevel[world]', x=1881.79, y=76.00, z=55.49] died: Jamaari Barbush the Pillager fell from a high place
+[21:43:52] [Server thread/INFO]: Named entity class_1604['Grumio Wouters the Pillager'/29252, l='ServerLevel[world]', x=1879.81, y=170.06, z=45.90] died: Grumio Wouters the Pillager was shot by Skeleton
+[21:43:59] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/29609, l='ServerLevel[world]', x=1868.50, y=73.00, z=-86.50]
+[21:44:06] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/29699, l='ServerLevel[world]', x=1869.50, y=73.00, z=-85.50]
+[21:44:10] [Server thread/INFO]: Named entity class_1604['Ieisha Bay the Pillager'/29557, l='ServerLevel[world]', x=1885.66, y=181.25, z=40.09] died: Ieisha Bay the Pillager was slain by El_Combu
+[21:45:25] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/30010, l='ServerLevel[world]', x=1867.50, y=73.00, z=-84.50]
+[21:45:55] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
