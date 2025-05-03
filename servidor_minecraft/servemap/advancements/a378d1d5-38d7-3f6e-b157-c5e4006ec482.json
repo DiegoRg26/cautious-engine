@@ -7684,5 +7684,11 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-05-03 18:07:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
